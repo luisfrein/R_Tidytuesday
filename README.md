@@ -1,6 +1,12 @@
 # R_Tidytuesday
 Repository for my Tidytuestay data visualizations.
 
+Week 44 2020: [Canadian Wind Turbines](https://github.com/Zetluis/R_Tidytuesday/blob/master/W44_Canadian_Wind_Turbines/W44_Canadian_Wind_Turbines.R)
+
+Top 10 Canadian Wind Turbine Projects by Capacity in Megawatts
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W44_Canadian_Wind_Turbines/wind%20tablePNG.PNG?raw=true)
+
 Week 43 2020: [Great American Beer Festival](https://github.com/Zetluis/R_Tidytuesday/blob/master/W43_Beer_Awards/W43_Beer_Awards.R)
 
 Top 10 cities by amount of medals awarded.
