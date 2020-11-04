@@ -1,6 +1,12 @@
 # R_Tidytuesday
 Repository for my Tidytuestay data visualizations.
 
+Week 45 2020: [IKEA Furniture](https://github.com/Zetluis/R_Tidytuesday/blob/master/W45_IKEA_Furniture/W45_IKEA_Furniture.R)
+
+Comparing old IKEA prices VS New prices
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W45_IKEA_Furniture/ikea_plot.png)
+
 Week 44 2020: [Canadian Wind Turbines](https://github.com/Zetluis/R_Tidytuesday/blob/master/W44_Canadian_Wind_Turbines/W44_Canadian_Wind_Turbines.R)
 
 Top 10 Canadian Wind Turbine Projects by Capacity in Megawatts
