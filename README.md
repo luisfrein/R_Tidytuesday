@@ -1,5 +1,11 @@
 # R_Tidytuesday
-Repository for my Tidytuestay data visualizations.
+Repository for my Tidytuestay data visualizations. They are ordered from most recent to oldest.
+
+Week 29 2020: Astronauts [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W29_Astronauts/W29_Astronauts.R)
+
+The 15 astronauts that spent the most time in ExtraVehicular Activity.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W29_Astronauts/astronauts.png)
 
 Week 46 2020: Historical Phones [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W46_%20Phone_Usage/W46_%20Phone_Usage.R)
 
@@ -36,10 +42,10 @@ Same Mean and standard deviation, but different shape.
 ![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W42_datasaurus/datasaurus.png)
 
 
-Week 41 2020: NCAA Women Basketball [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/Tidytuesday41_NCAA_women_basketball/Auburn.R)
+Week 41 2020: NCAA Women Basketball [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W41_NCAA_women_basketball/W41_NCAA_women_basketball.R)
 
 Auburn's position in the national tournament throughout the years. 
 
-![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/Tidytuesday41_NCAA_women_basketball/Team_position.png)
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W41_NCAA_women_basketball/Team_position.png)
 
 
