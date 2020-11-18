@@ -96,4 +96,4 @@ patchwork +
                                 plot.background = element_rect("#FFFFFF")
                   )) & theme(plot.margin = margin(t = .25, b = .25, unit = "in")) 
 
-ggsave("venezuela_story.png", height = 8, width = 14, dpi = 500)
+#ggsave("venezuela_story.png", height = 8, width = 14, dpi = 500)
