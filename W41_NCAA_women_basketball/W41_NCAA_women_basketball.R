@@ -31,7 +31,7 @@ Auburn_plot + labs(title = "Auburn's Female Basketball Team National Tournament 
   annotation_raster(Auburn_logo, xmin = 2011, xmax = 2017, ymin = 4.1, ymax = 5.9)
 
 
-Auburn_logo <- image_read("https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Auburn_Tigers_logo.svg/679px-Auburn_Tigers_logo.svg.png")
+
 
 
 
