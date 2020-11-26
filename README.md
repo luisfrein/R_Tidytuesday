@@ -9,6 +9,13 @@ Repository for my Tidytuestay data visualizations. Tidytuesday is a weekly data 
 Contributions order is from oldest one finished to most recent finished.
 
 ---
+**Week 48 2020: Washington Trails** :sunrise_over_mountains: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W48_Washington_Trails/W48_Washington_Trails.R)
+
+User rating distribution by location.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W48_Washington_Trails/washington_ridge_plot.png)
+
+---
 **Week 29 2020: Astronauts** :astronaut: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W29_Astronauts/W29_Astronauts.R)
 
 The 15 astronauts that spent the most time in ExtraVehicular Activity.
