@@ -12,8 +12,27 @@ tdf_table <- tdf_winners %>%
   filter(!is.na(time_overall)) %>% 
   mutate(start_date = lubridate::year(start_date)) %>% 
   slice_tail(n = 15) %>% 
-  select(3, 19, 2, 1, 8, 5:6) %>% 
-  gt()
+  select(3, 4, 19, 2, 1, 8, 5:6) %>% 
+  gt() 
+  
+
+tdf_table %>%
+  cols_merge(
+    columns = vars(winner_name, winner_team)
+) %>% 
+  text_transform(
+    locations = cells_body(
+      columns = vars(winner_name)
+    ),
+    fn = function(x){
+      name <- word(x, 1, 2)
+      team <- word(x, 3, -1)
+      glue::glue(
+        "<div><span style='font-weight:bold;font-variant:small-caps;font-size:14px'>{name}</div>
+        <div><span style ='font-weight:bold;color:grey;font-size:10px'>{team}</span></div>"
+      )
+      }
+  )
 
 tdf_table %>% 
   tab_header(
