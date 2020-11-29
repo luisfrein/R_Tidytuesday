@@ -18,7 +18,7 @@ Contributions order is from oldest one finished to most recent finished.
  - 2020/Week 41: [NCAA Women's Basketball :basketball:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W41_NCAA_women_basketball)
  - 2020/Week 42: [Datasaurus :t-rex:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W42_datasaurus)
  - 2020/Week 43: [Beer Awards :beer:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W43_Beer_Awards)
- - 2020/Week 44: [Canadian Wind Turbines ](https://github.com/Zetluis/R_Tidytuesday/tree/master/W44_Canadian_Wind_Turbines)
+ - 2020/Week 44: [Canadian Wind Turbines :canada:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W44_Canadian_Wind_Turbines)
  - 2020/Week 45: [Ikea Furniture :couch_and_lamp:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W45_IKEA_Furniture)
  - 2020/Week 46: [Phone Usage :phone:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W46_%20Phone_Usage)
  - 2020/Week 48: [Washigton Trails :sunrise_over_mountains:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W48_Washington_Trails)
