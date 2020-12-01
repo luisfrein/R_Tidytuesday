@@ -22,6 +22,7 @@ Contributions order is from oldest one finished to most recent finished.
  - 2020/Week 45: [Ikea Furniture :couch_and_lamp:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W45_IKEA_Furniture)
  - 2020/Week 46: [Phone Usage :phone:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W46_%20Phone_Usage)
  - 2020/Week 48: [Washigton Trails :sunrise_over_mountains:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W48_Washington_Trails)
+ - 2020/Week 48: [Toronto Shelters :family_man_woman_girl_boy:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W49_Toronto_Shelters)
 <!-- tocstop -->
 
 </details>
