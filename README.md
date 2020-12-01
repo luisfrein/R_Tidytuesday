@@ -27,6 +27,12 @@ Contributions order is from oldest one finished to most recent finished.
 
 </details>
 
+---
+**Week 15 2020: Tour de France** :bicyclist: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W15_Tour_de_France/W15_Tour_de_France.R)
+
+Tour the France winners from 2000 to 2019.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W15_Tour_de_France/tdf_table.jpg)
 
 ---
 **Week 48 2020: Washington Trails** :sunrise_over_mountains: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W48_Washington_Trails/W48_Washington_Trails.R)
