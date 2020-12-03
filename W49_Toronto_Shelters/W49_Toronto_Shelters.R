@@ -17,7 +17,7 @@ shelters <- shelters %>%
          month  = lubridate::month(occupancy_date)) %>%
   unite("date", year:month , sep = "/", remove = FALSE) 
 
-#Monthly occupancy
+#Monthly occupancy plot
 mo_plot <- shelters %>% 
   group_by(date) %>% 
   summarise(month_occupancy = sum(occupancy) / 1000) %>% 
@@ -61,7 +61,7 @@ ws_plot <- shelters %>%
         axis.title = element_text(color = "#292929", face = "bold"),
         axis.text = element_text(color = "#292929", face = "bold"))
 
-
+#Circular bar plot of occupancy rate.
 rate_plot <- shelters %>% 
   filter(!is.na(capacity)) %>% 
   group_by(month, year) %>% 
