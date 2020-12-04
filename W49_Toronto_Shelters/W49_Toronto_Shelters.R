@@ -3,7 +3,6 @@ library(tidyverse)
 library(waffle)
 library(patchwork)
 library(ggtext)
-library(extrafont)
 library(Cairo)
 #Get the data
 tuesdata <- tidytuesdayR::tt_load(2020, week = 49)
