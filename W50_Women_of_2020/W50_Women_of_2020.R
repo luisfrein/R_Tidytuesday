@@ -154,10 +154,10 @@ plot +
         )
 
 #Function to save the plot
-ggsave("women1.png",
-       width = 21,
-       height = 29.7,
-       units = "cm",
-       dpi = 500,
-       type = "cairo-png")
+# ggsave("women1.png",
+#        width = 21,
+#        height = 29.7,
+#        units = "cm",
+#        dpi = 500,
+#        type = "cairo-png")
 
