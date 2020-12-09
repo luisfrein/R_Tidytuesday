@@ -109,7 +109,7 @@ names <- tibble(
             "**Leandra (Lea T)<br><span style='color:#267D39;'>Identity</span><br>Transgender model<br>Brazil**"
   ),
   x = c(0.4, 2.34, 0.4, 2.34, 2.34, 0.4, 0.4, 2.34),
-  y = c(-11, 33, 3.5, 10.5, -6.5, 26, 48, 51.5),
+  y = c(-11, 33, 3.5, 10.5, -6.5, 26, 49, 51.5),
   hjust = c(0, 0, 0, 0, 0, 0, 0, 0),
   vjust = c(0, 0, 0, 0, 0, 0, 0, 0),
   color = ("#6B0504")
