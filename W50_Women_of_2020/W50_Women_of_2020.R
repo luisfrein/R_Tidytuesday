@@ -94,8 +94,7 @@ descriptions <- tibble(
   x = c(0, 1.9, 0, 1.9, 1.9, 0, 0, 1.9),
   y = c(-22, 18, -3.5, .5, -13.5, 11, 34, 40),
   hjust = c(0, 0, 0, 0, 0, 0, 0, 0),
-  vjust = c(0, 0, 0, 0, 0, 0, 0, 0),
-  color = ("#6B0504")
+  vjust = c(0, 0, 0, 0, 0, 0, 0, 0)
 )
 
 names <- tibble(
@@ -111,8 +110,7 @@ names <- tibble(
   x = c(0.4, 2.34, 0.4, 2.34, 2.34, 0.4, 0.4, 2.34),
   y = c(-11, 33, 3.5, 10.5, -6.5, 26, 49, 51.5),
   hjust = c(0, 0, 0, 0, 0, 0, 0, 0),
-  vjust = c(0, 0, 0, 0, 0, 0, 0, 0),
-  color = ("#6B0504")
+  vjust = c(0, 0, 0, 0, 0, 0, 0, 0)
 )
 
 center_label <- tibble(
@@ -124,8 +122,7 @@ center_label <- tibble(
   x = c(1.5),
   y = c(20),
   hjust = c(0.5),
-  vjust = c(0.5),
-  color = ("#6B0504")
+  vjust = c(0.5)
 )
 
 plot <- sa_women %>% 
@@ -145,19 +142,21 @@ plot <- sa_women %>%
   annotation_raster(lea, xmin = 1.9, xmax = 2.3, ymin = 51.5, ymax = 57) 
   
 plot + 
+  labs(caption = "**Made by @luisfreii | Data: BBC**") +
   theme(plot.background = element_rect("#FEF0EC"),
         panel.background = element_rect("#FEF0EC"),
         panel.grid = element_blank(),
         axis.title = element_blank(),
         axis.text = element_blank(),
-        axis.ticks = element_blank()
+        axis.ticks = element_blank(),
+        plot.caption = element_markdown(hjust = 0.5)
         )
 
 #Function to save the plot
-# ggsave("women1.png",
-#        width = 21,
-#        height = 29.7,
-#        units = "cm",
-#        dpi = 500,
-#        type = "cairo-png")
+ggsave("women1.png",
+       width = 21,
+       height = 29.7,
+       units = "cm",
+       dpi = 500,
+       type = "cairo-png")
 
