@@ -45,8 +45,8 @@ plot +
 
 #Code to save the plot
 # ggsave("ninja_obstacles.png",
-#        height = 23.2,
-#        width = 20.5,
+#        height = 23.1,
+#        width = 19.8,
 #        units = "cm",
 #        dpi = 500,
 #        type = "cairo-png")
