@@ -24,9 +24,17 @@ Contributions order is from oldest one finished to most recent finished.
  - 2020/Week 48: [Washigton Trails :sunrise_over_mountains:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W48_Washington_Trails)
  - 2020/Week 49: [Toronto Shelters :family_man_woman_girl_boy:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W49_Toronto_Shelters)
  - 2020/Week 50: [Women of 2020 :red_haired_woman:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W50_Women_of_2020)
+ - 2020/Week 51: [Ninja Warrior :climbing:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W51_Ninja_Warrior)
 <!-- tocstop -->
 
 </details>
+
+---
+**Week 51 2020: Ninja Warrior** :climbing: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W51_Ninja_Warrior/W51_Ninja_Warrior.R)
+
+South American Women of 2020
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W51_Ninja_Warrior/ninja_obstacles.png)
 
 ---
 **Week 50 2020: Women of 2020** :red_haired_woman: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W50_Women_of_2020/W50_Women_of_2020.R)
