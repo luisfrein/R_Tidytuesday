@@ -23,7 +23,8 @@ plot <- ninja_warrior %>%
 plot +
   labs(x = NULL, y = NULL, 
        title = "The 20 Most Common Ninja Warrior Obstacles",
-       subtitle = "The data is from the first 10 seasons of the show.\nThe size of the dot represents how common the\nobstacle is.\n") +
+       subtitle = "The data is from the first 10 seasons of the show.\nThe size of the dot represents how common the\nobstacle is.\n",
+       caption = "Made by @luisfreii | Data: Data.World") +
   theme(plot.background = element_rect("#D6D6D6"),
         panel.background = element_rect("#D6D6D6"),
         axis.text = element_text(color = "#792F40", face = "bold", family = "Arial Narrow", size = 10),
@@ -38,7 +39,8 @@ plot +
         legend.title = element_blank(),
         plot.title = element_text(color = "#792F40", face = "bold", family = "Arial Narrow", size = 14),
         plot.subtitle = element_text(color = "#792F40", face = "bold", family = "Arial Narrow", size = 12),
-        legend.text = element_text(color = "#792F40", face = "bold", family = "Arial Narrow", size = 11)
+        legend.text = element_text(color = "#792F40", face = "bold", family = "Arial Narrow", size = 11),
+        plot.caption = element_text(color = "#792F40", face = "bold", family = "Arial Narrow", size = 11, hjust = 0.5)
         )
 
 #Code to save the plot
