@@ -32,7 +32,7 @@ Contributions order is from oldest one finished to most recent finished.
 ---
 **Week 51 2020: Ninja Warrior** :climbing: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W51_Ninja_Warrior/W51_Ninja_Warrior.R)
 
-South American Women of 2020
+20 Most Common obstacles of Ninja Warrior.
 
 ![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W51_Ninja_Warrior/ninja_obstacles.png)
 
