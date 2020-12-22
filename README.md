@@ -25,11 +25,20 @@ Contributions order is from oldest one finished to most recent finished.
  - 2020/Week 49: [Toronto Shelters :family_man_woman_girl_boy:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W49_Toronto_Shelters)
  - 2020/Week 50: [Women of 2020 :red_haired_woman:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W50_Women_of_2020)
  - 2020/Week 51: [Ninja Warrior :climbing:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W51_Ninja_Warrior)
+ - 2020/Week 52: [Big Mac Index :hamburger:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W52_Big_Mac_Index)
 <!-- tocstop -->
 
 </details>
 
 ---
+**Week 52 2020: Big Mac Index** :hamburger: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W52_Big_Mac_Index/W52_Big_Mac_Index.R)
+
+Big Mac Index of selected countries from 2010 to 2020.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W52_Big_Mac_Index/Burgernomics.png)
+
+---
+
 **Week 51 2020: Ninja Warrior** :climbing: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/W51_Ninja_Warrior/W51_Ninja_Warrior.R)
 
 20 Most Common obstacles of Ninja Warrior.
