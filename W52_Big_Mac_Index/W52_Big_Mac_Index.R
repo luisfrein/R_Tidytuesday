@@ -2,6 +2,8 @@
 library(tidyverse)
 library(lubridate)
 library(extrafont)
+library(Cairo)
+
 #Get the data
 tuesdata <- tidytuesdayR::tt_load(2020, week = 52)
 
