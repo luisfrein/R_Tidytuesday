@@ -26,11 +26,22 @@ Contributions order is from oldest one finished to most recent finished.
  - 2020/Week 50: [Women of 2020 :red_haired_woman:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W50_Women_of_2020)
  - 2020/Week 51: [Ninja Warrior :climbing:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W51_Ninja_Warrior)
  - 2020/Week 52: [Big Mac Index :hamburger:](https://github.com/Zetluis/R_Tidytuesday/tree/master/W52_Big_Mac_Index)
+ 
+ **Contributions 2021**
+ - 2021/Week 2: [Transit Cost Project :metro:](https://github.com/Zetluis/R_Tidytuesday/tree/master/2021/W02_Transit_Cost)
+ 
 <!-- tocstop -->
-
 </details>
 
----                                                 
+---              
+**Week 2 2021: Transit Cost Project :metro: [(code)]https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/W02_TRansit_Cost.R)
+
+Big Mac Index of selected countries from 2010 to 2020.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/Transit.png)
+
+---
+
 **Week 52 2020: Big Mac Index** :hamburger: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2020/W52_Big_Mac_Index/W52_Big_Mac_Index.R)
 
 Big Mac Index of selected countries from 2010 to 2020.
