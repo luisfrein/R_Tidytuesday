@@ -34,7 +34,7 @@ Contributions order is from oldest one finished to most recent finished.
 </details>
 
 ---              
-**Week 2 2021: Transit Cost Project :metro: [(code)]https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/W02_TRansit_Cost.R)
+**Week 2 2021: Transit Cost Project** :metro: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/W02_TRansit_Cost.R)
 
 Big Mac Index of selected countries from 2010 to 2020.
 
