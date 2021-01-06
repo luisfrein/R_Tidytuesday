@@ -1,4 +1,4 @@
-#Loade packages
+#Load packages
 library(tidyverse)
 library(Cairo)
 library(extrafont)
@@ -36,7 +36,7 @@ transit_cost %>%
                color = "#D04D11", fill = "#F5F5F5",
                outlier.color = "#EF7B45", outlier.alpha = .8) +
   #Got this useful code from Neal Grantham's code. His twitter: @nsgrantham. Link to code: https://www.nsgrantham.com/transit-costs
-  scale_y_continuous(labels = function(x) ifelse(x > 0, paste0("$", x, "M"), paste0("$", x)), breaks = seq(0, 1000, by = 200)) +
+  scale_y_continuous(labels = function(x) ifelse(x > 0, paste0("$", x, "MM"), paste0("$", x)), breaks = seq(0, 1000, by = 200)) +
   labs(title = "The Transit Cost Project and PPP rates",
        subtitle = '\nThe  Transit Cost  Project created a database that spans\nmore  than  50 countries and totals more than 11,000 km\nof urban rail built since the late 1990s. \"Purchasing power\nparity (PPP) is a popular metric used by macroeconomic\nanalysts  that  compares   different  countries  currencies\nthrough a \'basket of goods\' approach.\" (INVESTOPEDIA\nSTAFF, 2020).
 
@@ -54,12 +54,12 @@ A  lower  PPP  rate  means  that  the  currency  has  less\nvalue,   in   other 
         plot.caption = element_text(family = "Arial Narrow", hjust = .5, face = "bold", size = 10, color = "#391505")
   )
 
-ggsave("Transit.png",
-       width = 14,
-       height = 20,
-       units = "cm",
-       dpi = 300,
-       type = "cairo-png"
-       )
+# ggsave("Transit.png",
+#        width = 14,
+#        height = 20,
+#        units = "cm",
+#        dpi = 300,
+#        type = "cairo-png"
+#        )
 
   
