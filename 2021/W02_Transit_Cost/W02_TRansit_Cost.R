@@ -40,7 +40,7 @@ transit_cost %>%
   labs(title = "The Transit Cost Project and PPP rates",
        subtitle = '\nThe  Transit Cost  Project created a database that spans\nmore  than  50 countries and totals more than 11,000 km\nof urban rail built since the late 1990s. \"Purchasing power\nparity (PPP) is a popular metric used by macroeconomic\nanalysts  that  compares   different  countries  currencies\nthrough a \'basket of goods\' approach.\" (INVESTOPEDIA\nSTAFF, 2020).
 
-A  lower  PPP  rate  means  that  the  currency  has  less\nvalue,   in   other  words  you  would  need  more  of  that\ncurrency   compared  to   a  higher  PPP country  to  buy\nthe same product. Thus having greater cost.',
+A  lower  PPP  rate  means  that  the  currency  has  less\nvalue,   in   other  words  you  would  need  more  of  that\ncurrency   compared  to   a  higher  PPP country  to  buy\nthe same product. Thus having greater costs.',
        caption = ",'\nMade by @luisfreii | Data: TransitCost.com",
        x = "\nPurchasing Power Parity (PPP)", y = y = "Cost of KM of Urban Rail\n"
        ) +
