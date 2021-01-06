@@ -36,7 +36,7 @@ Contributions order is from oldest one finished to most recent finished.
 ---              
 **Week 2 2021: Transit Cost Project** :metro: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/W02_TRansit_Cost.R)
 
-Big Mac Index of selected countries from 2010 to 2020.
+Comparisson between PPP rates and cost per km of urban rail.
 
 ![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/Transit.png)
 
