@@ -1,1 +1,1 @@
-![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/W42_datasaurus/datasaurus.png)
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/2020/W42_datasaurus/datasaurus.png)
