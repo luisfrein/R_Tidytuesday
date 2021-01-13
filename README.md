@@ -29,11 +29,20 @@ Contributions order is from oldest one finished to most recent finished.
  
  **Contributions 2021**
  - 2021/Week 2: [Transit Cost Project :metro:](https://github.com/Zetluis/R_Tidytuesday/tree/master/2021/W02_Transit_Cost)
+ - 2021/Week 3: [Art Collections :artist:](https://github.com/Zetluis/R_Tidytuesday/tree/master/2021/W03_Art_Collections)
  
 <!-- tocstop -->
 </details>
 
----              
+---          
+**Week 3 2021: Transit Art Collections** :artist: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W03_Art_Collections/W03_Art_Collections.R)
+
+The 15 Most Common Art Mediums from Tate Art Museum.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W03_Art_Collections/art_med.png)
+
+---
+
 **Week 2 2021: Transit Cost Project** :metro: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/W02_TRansit_Cost.R)
 
 Comparisson between PPP rates and cost per km of urban rail.
