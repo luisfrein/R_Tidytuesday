@@ -35,7 +35,7 @@ Contributions order is from oldest one finished to most recent finished.
 </details>
 
 ---          
-**Week 3 2021: Transit Art Collections** :artist: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W03_Art_Collections/W03_Art_Collections.R)
+**Week 3 2021: Art Collections** :artist: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W03_Art_Collections/W03_Art_Collections.R)
 
 The 15 Most Common Art Mediums from Tate Art Museum.
 
