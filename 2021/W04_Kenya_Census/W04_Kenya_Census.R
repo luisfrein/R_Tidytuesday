@@ -28,19 +28,19 @@ text_color <- "#525252"
 urban_rural_population %>% 
   mutate(color_cond = case_when(rural_percentage < 50 ~ glue("{urban}"), 
                                 TRUE ~ glue("{rural}")),
-         County = case_when(rural_percentage < 50 ~ glue("<span style='color:{rural};'>{County}</span>"), 
-                            TRUE ~ glue("<span style='color:{urban};'>{County}</span>")),
+         County = case_when(rural_percentage < 50 ~ glue("<span style='color:{urban};'>{County}</span>"), 
+                            TRUE ~ glue("<span style='color:{rural};'>{County}</span>")),
          Total = urban_pop + rural_pop) %>% 
   pivot_longer(2:3, names_to = "pop_type", values_to = "pop_value") %>% 
   ggplot(aes(pop_value, fct_reorder(County, pop_value), color = pop_type)) +
   geom_line(aes(group = County), color = '#525252', size = 1) +
   geom_point(size = 4, show.legend = FALSE) +
-  scale_color_manual(values = c(glue("{urban}"), glue("{rural}"))) +
+  scale_color_manual(values = c(glue("{rural}"), glue("{urban}"))) +
   scale_x_continuous(labels = label_number(scale = 1 / 1000000, suffix = "M", accuracy = 1), position = "top") +
   labs(title = glue("Kenya's <span style='color:{urban};'>Urban</span> VS <span style='color:{rural};'>Rural</span> Population"),
-    subtitle = glue("Kenya's <span style='color:{urban};'>urban</span> and <span style='color:{rural};'>rural</span> population by county. The county's<br>color is determined by the predominant type of population<br>in said county."),
-    x = "\nPopulation\n", y = NULL,
-    caption = "<br>Data: Kenya Population and Housing Census via {rKenyaCensus}<br>Graphic by @luisfreii") +
+       subtitle = glue("Kenya's <span style='color:{urban};'>urban</span> and <span style='color:{rural};'>rural</span> population by county. The county's<br>color is determined by the predominant type of population<br>in said county."),
+       x = "\nPopulation\n", y = NULL,
+       caption = "<br>Data: Kenya Population and Housing Census via {rKenyaCensus}<br>Graphic by @luisfreii") +
   theme(plot.title = element_markdown(face = "bold", color = text_color, family = "Source Sans Pro"),
         plot.subtitle = element_markdown(face = "bold", color = text_color, family = "Source Sans Pro"),
         plot.caption = element_markdown(face = "bold", color = text_color, hjust = 0, family = "Source Sans Pro"),
@@ -58,7 +58,3 @@ urban_rural_population %>%
 #        height = 20,
 #        units = "cm",
 #        dpi = 320)
-
-  
-
-
