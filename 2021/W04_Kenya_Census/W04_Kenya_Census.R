@@ -19,8 +19,8 @@ urban_rural_population <-
   mutate(rural_pop = replace_na(rural_pop, 0), rural_percentage = rural_pop * 100 / (urban_pop + rural_pop), color_cond = case_when(rural_percentage > 50 ~ "#1B5299", TRUE ~ "#E63946"), County = fct_recode(County, "TAITA-TAVETA" = "TAITA/TAVETA"))
 
 #Plot colors
-rural <- "#C42021"
-urban <- "#2B304F"
+urban <- "#C42021"
+rural <- "#2B304F"
 bkgrd <- "#f5f7fe"
 text_color <- "#525252"
 
