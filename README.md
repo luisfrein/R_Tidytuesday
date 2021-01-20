@@ -30,11 +30,20 @@ Contributions order is from oldest one finished to most recent finished.
  **Contributions 2021**
  - 2021/Week 2: [Transit Cost Project :metro:](https://github.com/Zetluis/R_Tidytuesday/tree/master/2021/W02_Transit_Cost)
  - 2021/Week 3: [Art Collections :artist:](https://github.com/Zetluis/R_Tidytuesday/tree/master/2021/W03_Art_Collections)
+ - 2021/Week 4: [Kenya Census :kenya:](https://github.com/Zetluis/R_Tidytuesday/tree/master/2021/W04_Kenya_Census)
  
 <!-- tocstop -->
 </details>
 
----          
+---     
+**Week 4 2021: Kenya Census** :kenya: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W04_Kenya_Census/W04_Kenya_Census.R)
+
+Cleveland Dot Plot of Kenya's rural and urban population.
+
+![alt text](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W04_Kenya_Census/Kenya_census.png)
+
+---
+
 **Week 3 2021: Art Collections** :artist: [(code)](https://github.com/Zetluis/R_Tidytuesday/blob/master/2021/W03_Art_Collections/W03_Art_Collections.R)
 
 The 15 Most Common Art Mediums from Tate Art Museum.
