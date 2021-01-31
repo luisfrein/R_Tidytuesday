@@ -57,7 +57,7 @@ Cleveland Dot Plot of Kenya's rural and urban population.
 
 The 15 Most Common Art Mediums from Tate Art Museum.
 
-![alt text](https://github.com/Zetluis/luisfrein/blob/master/2021/W03_Art_Collections/art_med.png)
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W03_Art_Collections/art_med.png)
 
 ---
 
