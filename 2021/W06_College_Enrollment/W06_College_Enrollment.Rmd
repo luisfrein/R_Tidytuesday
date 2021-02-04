@@ -1,0 +1,191 @@
+---
+title: "College Enrollment Tidytuesday"
+author: "Luis Freites"
+date: "2 de febrero de 2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message =  FALSE, warning = FALSE)
+```
+
+## College Enrollment
+
+This week's data is about college enrollment in the US. Specifally about High school completion and bachelor's degree attainment among persons age 25 and over by race/ethnicity & sex 1910-2016.
+
+First, we load the packages.
+```{r packages}
+library(tidyverse)
+library(extrafont)
+library(ggtext)
+library(glue)
+```
+
+Second, we download the Data. In this case I use the package tidytuesdayR to download the data.
+```{r data}
+tuesdata <- tidytuesdayR::tt_load(2021, week = 6)
+hs_students_raw <- tuesdata$hs_students
+```
+
+Third, we explore and clean the data.
+1. Check the first 5 rows and the last 5 rows of the data.
+```{r head/tail}
+hs_students_raw %>% 
+  slice_head(n = 5)
+
+hs_students_raw %>% 
+  slice_tail(n = 5)
+```
+
+It looks like the "Total" column should be named "year" and there's an extra character in the first 3 rows of the column and maybe in some other rows. So let's rename the column and fix the years with an extra character.
+
+```{r rename/mutate}
+hs_students <- 
+hs_students_raw %>% 
+  rename(year = "Total") %>% 
+  mutate(year = str_extract(year, "\\d{4}")) #This is a regular expression that matches the first 4 digits of a string.
+
+hs_students %>% 
+  slice_head(n = 5)
+```
+Now that the year column looks good, we should check for NAs.
+
+2. Check for NAs across each column
+```{r NAs}
+map(hs_students, ~sum(is.na(.)))
+```
+
+Looks like there are exactly 7 NAs in each column. That leads me to believe that the NAs go across complete rows. Let's check it out.
+```{r check NAs}
+hs_students %>% 
+  filter(is.na(year)) 
+```
+
+Exactly 7 columns with NAs all throughout. I think it is safe to get rid of these rows.
+```{r remove NAs}
+hs_students %>% 
+  filter(!is.na(year)) -> hs_students
+```
+
+3. There seem to be some symbols instead of NAs in some of the columns. Let's check the column classes first.
+```{r class}
+hs_students %>% 
+  map(class)
+```
+
+There are a lot of clumns that are character but should be numeric. Changing the column classes will also replace the symbols with NAs.
+```{r column class change}
+hs_students %>% 
+  mutate(across(where(is.character), as.numeric)) -> hs_students
+```
+
+4. Now to have the data in a tidy format. Students ethnicity will be just one column. The same with the standard errors and percentages.
+```{r pivot longer}
+hs_students %>% 
+  select(year, starts_with("Standard")) %>% 
+  pivot_longer(2:10, 
+               names_to = "ethnicity", 
+               values_to = "standard_error") %>% 
+  mutate(ethnicity = str_remove(ethnicity, "Standard Errors - ")) -> se_students
+  
+  hs_students %>% 
+    select(!starts_with("Standard")) %>% 
+    pivot_longer(2:10, 
+                 names_to = "ethnicity", 
+                 values_to = "percentage") %>% 
+  mutate(ethnicity = str_remove(ethnicity, "1")) -> percentage_students
+  
+#Bind columns  
+  bind_cols(percentage_students, se_students[,3]) -> hs_students
+  
+#Remove  
+remove(percentage_students, se_students)
+    
+#Rename factors
+  hs_students %>% 
+    mutate(ethnicity = fct_recode(ethnicity,
+                                  "Asian" = "Asian/Pacific Islander - Asian",
+                                  "Pacific Islander" = "Asian/Pacific Islander - Pacific Islander",
+                                  "All persons age<br>25 and over" = "Total, percent of all persons age 25 and over",
+                                  "American Indian<br>Alaska Native" = "American Indian/\r\nAlaska Native")) -> hs_students
+  
+  slice_tail(hs_students, n = 5)
+```
+
+5. Plot!
+```{r plot}
+#Create both labels
+hs_students %>% 
+  filter(year == 2003, !ethnicity == "Total - Asian/Pacific Islander") -> left_label
+
+hs_students %>% 
+  filter(year == 2016, !ethnicity == "Total - Asian/Pacific Islander") -> right_label
+
+#Calculate return percentages
+hs_students %>% 
+  filter(year %in% c(2003, 2016)) %>% 
+  group_by(ethnicity) %>% 
+  mutate(return = round((percentage / lag(percentage) - 1) * 100)) -> hs_return
+
+#Assign returns for hispanic, american indian and black students.
+hs_return[10, 5] -> all_variation
+hs_return[11, 5] -> white_variation
+hs_return[12, 5] -> black_variation
+hs_return[13, 5] -> hispanic_variation
+hs_return[15, 5] -> asian_variation
+hs_return[16, 5] -> islander_variation
+hs_return[18, 5] -> Ame_indian_variation
+hs_return[18, 5] -> two_variation
+
+#Create plot
+background <- "#F5F5F4"
+col1 <- "#5C5C5C"
+
+#Paste return percentage to ethnicities.
+hs_students %>% 
+  filter(!ethnicity == "Total - Asian/Pacific Islander", year >= 2003) %>% 
+  mutate(ethnicity = case_when(ethnicity == "All persons age<br>25 and over" ~ glue("{ethnicity}<br><br>Up: {all_variation}%"),
+                               ethnicity == "White" ~ glue("{ethnicity}<br><br>Up: {white_variation}%"),
+                               ethnicity == "Black" ~ glue("{ethnicity}<br><br>Up: {black_variation}%"),
+                               ethnicity == "Hispanic" ~ glue("{ethnicity}<br><br>Up: {hispanic_variation}%"),
+                               ethnicity == "Asian" ~ glue("{ethnicity}<br><br>Up: {asian_variation}%"),
+                               ethnicity == "Pacific Islander" ~ glue("{ethnicity}<br><br>Up: {islander_variation}%"),
+                               ethnicity == "American Indian<br>Alaska Native" ~ glue("{ethnicity}<br><br>Up: {Ame_indian_variation}%"),
+                               ethnicity == "Two or more race" ~ glue("{ethnicity}<br><br>Up: {two_variation}%")),
+         ethnicity = fct_reorder(ethnicity, -percentage)) -> hs_students_4plot
+
+hs_students_4plot %>% 
+  ggplot(aes(year, percentage, color = ethnicity)) +
+  geom_line(size = 1.25) +
+  geom_text(data = filter(hs_students_4plot, year == 2003), aes(year - 1, percentage, label = round(percentage)), fontface = "bold", family = "Source Sans Pro") +
+  geom_text(data = filter(hs_students_4plot, year == 2016), aes(year + 1, percentage, label = round(percentage)), fontface = "bold", family = "Source Sans Pro") +
+  scale_color_manual(values = c("#5C5C5C", "#5C5C5C", "#B034D5", "#5C5C5C", "#5C5C5C", "#F59700", "#1CC4B6", "#E21D12")) +
+  facet_wrap(~ ethnicity, 
+             ncol = 1, 
+             scales = "free",
+             strip.position = "left") +
+  coord_cartesian(clip = "off") +
+  labs(title = "Minorities Are Climbing Up",
+       subtitle = "The percentage of individuals that have completed high school from<br>2003 to 2016 has stedealy risen among every ethnicity. The highest<br>grow is among <span style='color:#E21D12;'>**Hispanics**</span>, <span style='color:#F59700;'>**Black people**</span>, <span style='color:#1CC4B6;'>**American Indians**</span> and<br><span style='color:#B034D5;'>**Two or More Race**</span> individuals.<br><br>This is good news, but minorities still fall behind white people<br>on high school completion, especially <span style='color:#E21D12;'>**Hispanics**</span>.<br>",
+       caption = "<br>Visualization: @luisfreii | Data source: Data.World") +
+  theme_void() +
+  theme(strip.text.y.left = element_textbox(hjust = .5, face = "bold", color = col1, family = "Source Sans Pro"),
+        plot.title = element_markdown(),
+        plot.subtitle = element_markdown(family = "Source Sans Pro"),
+        plot.caption = element_markdown(family = "Source Sans Pro", hjust = 0),
+        panel.spacing = unit(2, "lines"),
+        plot.background = element_rect(background),
+        panel.background = element_blank(),
+        strip.background = element_blank(),
+        legend.position = "none"
+        )
+
+#Save the plot
+# ggsave("HighSchool_percentage.png",
+#        height = 23,
+#        width = 15,
+#        units = "cm",
+#        dpi = 320)
+  
+```
+
