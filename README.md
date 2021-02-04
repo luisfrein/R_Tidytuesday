@@ -32,11 +32,21 @@ Contributions order is from oldest one finished to most recent finished.
  - 2021/Week 3: [Art Collections :artist:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W03_Art_Collections)
  - 2021/Week 4: [Kenya Census :kenya:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W04_Kenya_Census)
  - 2021/Week 5: [#breakfreefrom plastic :cup_with_straw:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W05_Plastic_Pollution)
+ - 2021/Week 6: [College enrollment :student:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W06_College_Enrollment)
+ 
  
 <!-- tocstop -->
 </details>
 
 ---     
+**Week 6 2021: College enrollment** :student: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W06_College_Enrollment/W06_College_Enrollment.Rmd)
+
+Percentage of High School graduates by ethnicity from 2003 to 2016
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W06_College_Enrollment/HighSchool_percentage.png)
+
+---    
+
 **Week 5 2021: #breakfreefromplastic** :cup_with_straw: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/W05_Plastic_Pollution.R)
 
 Treemap of worst polluters in the Philippines
@@ -104,60 +114,7 @@ Tour the France winners from 2000 to 2019.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W15_Tour_de_France/tdf_table.jpg)
 
----                                                                  
-**Week 48 2020: Washington Trails** :sunrise_over_mountains: [(code)]( https://github.com/Zetluis/luisfrein/blob/master/2020/W48_Washington_Trails/W48_Washington_Trails.R)
 
-User rating distribution by location.
 
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W48_Washington_Trails/washington_ridge_plot.png)
-
----
-**Week 29 2020: Astronauts** :astronaut: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W29_Astronauts/W29_Astronauts.R)
-
-The 15 astronauts that spent the most time in ExtraVehicular Activity.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W29_Astronauts/astronauts.png)
-
----
-**Week 46 2020: Historical Phones** :phone: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W46_%20Phone_Usage/W46_%20Phone_Usage.R)
-
-Telling a little story about Venezuela's mobile subscriptions.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W46_%20Phone_Usage/venezuela_story.png)
-
----
-**Week 45 2020: IKEA Furniture** :couch_and_lamp: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W45_IKEA_Furniture/W45_IKEA_Furniture.R)
-
-Comparing old IKEA prices VS New prices
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W45_IKEA_Furniture/ikea_plot.png)
-
----
-**Week 44 2020: Canadian Wind Turbines** :canada: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W44_Canadian_Wind_Turbines/W44_Canadian_Wind_Turbines.R)
-
-Top 10 Canadian Wind Turbine Projects by Capacity in Megawatts
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W44_Canadian_Wind_Turbines/wind%20tablePNG.PNG?raw=true)
-
----
-**Week 43 2020: Great American Beer Festival** :beer: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W43_Beer_Awards/W43_Beer_Awards.R)
-
-Top 10 cities by amount of medals awarded.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W43_Beer_Awards/GABF.png)
-
----
-**Week 42 2020: Datasaurus** :t-rex: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W42_datasaurus/W42_datasaurus.R)
-
-Same Mean and standard deviation, but different shape.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W42_datasaurus/datasaurus.png)
-
----
-**Week 41 2020: NCAA Women's Basketball** :basketball: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W41_NCAA_women_basketball/W41_NCAA_women_basketball.R)
-
-Auburn's position in the national tournament throughout the years. 
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W41_NCAA_women_basketball/Team_position.png)
 
 
