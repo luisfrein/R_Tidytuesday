@@ -6,10 +6,10 @@
 </a>
 
 Repository for my Tidytuestay data visualizations. Tidytuesday is a weekly data project aimed at the R ecosystem, an emphasis was placed on understanding how to summarize and arrange data to make meaningful charts with `ggplot2`, `tidyr`, `dplyr`, and other tools in the `tidyverse` ecosystem.
-Contributions order is from oldest one finished to most recent finished.
+These are my last 10 contributions.
 
 <details>
-  <summary>If you would like to see contributions in chronological order click here.</summary>
+  <summary>If you would like to see all my contributions click here.</summary>
 
 <!-- toc -->
 **Contributions 2020**
