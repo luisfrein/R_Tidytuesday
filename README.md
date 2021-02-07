@@ -28,6 +28,7 @@ These are my last 10 contributions.
  - 2020/Week 52: [Big Mac Index :hamburger:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W52_Big_Mac_Index)
  
  **Contributions 2021**
+ - 2021/Week 1: [Bring Your Own Data](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W01_Bring_your_own_data)
  - 2021/Week 2: [Transit Cost Project :metro:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W02_Transit_Cost)
  - 2021/Week 3: [Art Collections :artist:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W03_Art_Collections)
  - 2021/Week 4: [Kenya Census :kenya:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W04_Kenya_Census)
@@ -37,6 +38,13 @@ These are my last 10 contributions.
  
 <!-- tocstop -->
 </details>
+---     
+**Week 1 2021: Bring Your Own Data** :student: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/W01_corruption_perception.R)
+
+Map of Corruption Perception Index
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/cpi_map.png)
+
 
 ---     
 **Week 6 2021: College enrollment** :student: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W06_College_Enrollment/W06_College_Enrollment.Rmd)
@@ -107,12 +115,7 @@ An infographic from data of Toronto Shelters.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W49_Toronto_Shelters/Shelters.png)
 
----
-**Week 15 2020: Tour de France** :bicyclist: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W15_Tour_de_France/W15_Tour_de_France.R)
 
-Tour the France winners from 2000 to 2019.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W15_Tour_de_France/tdf_table.jpg)
 
 
 
