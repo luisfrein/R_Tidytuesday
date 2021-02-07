@@ -38,8 +38,9 @@ These are my last 10 contributions.
  
 <!-- tocstop -->
 </details>
+
 ---     
-**Week 1 2021: Bring Your Own Data** :student: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/W01_corruption_perception.R)
+**Week 1 2021: Bring Your Own Data** :world_map: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/W01_corruption_perception.R)
 
 Map of Corruption Perception Index
 
