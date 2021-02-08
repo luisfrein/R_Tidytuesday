@@ -11,10 +11,9 @@ corruption_perception <- readxl::read_xlsx(here("2021", "W01_Bring_your_own_data
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
 #Explore!
-#Recode factor and rename column
+#Rename column
 corruption_perception <- 
 corruption_perception %>% 
-  mutate(Country = fct_recode(Country, "USA" = "United States of America")) %>% 
   rename("cpi_score" = `CPI score 2020`)
 
 #Join CPI data with world data
