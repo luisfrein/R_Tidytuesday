@@ -34,10 +34,18 @@ These are my last 10 contributions.
  - 2021/Week 4: [Kenya Census :kenya:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W04_Kenya_Census)
  - 2021/Week 5: [#breakfreefrom plastic :cup_with_straw:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W05_Plastic_Pollution)
  - 2021/Week 6: [College enrollment :student:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W06_College_Enrollment)
+ - 2021/Week 7: [Wealth & Income in the US :moneybag:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W07_Wealth_%26_Income)
  
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 7 2021: Wealth & Income in the US** :moneybag: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W07_Wealth_%26_Income/W07_Wealth_%26_Income.R)
+
+Area plot of Income percentage
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W07_Wealth_%26_Income/Income_area.png)
 
 ---     
 **Week 1 2021: Bring Your Own Data** :world_map: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/W01_corruption_perception.R)
@@ -45,7 +53,6 @@ These are my last 10 contributions.
 Map of Corruption Perception Index
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/cpi_map.png)
-
 
 ---     
 **Week 6 2021: College enrollment** :student: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W06_College_Enrollment/W06_College_Enrollment.Rmd)
@@ -109,12 +116,6 @@ South American Women of 2020
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W50_Women_of_2020/women1.png)
 
----
-**Week 49 2020: Toronto Shelters** :family_man_woman_girl_boy: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W49_Toronto_Shelters/W49_Toronto_Shelters.R)
-
-An infographic from data of Toronto Shelters.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W49_Toronto_Shelters/Shelters.png)
 
 
 
