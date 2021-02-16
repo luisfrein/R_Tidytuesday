@@ -35,10 +35,18 @@ These are my last 10 contributions.
  - 2021/Week 5: [#breakfreefrom plastic :cup_with_straw:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W05_Plastic_Pollution)
  - 2021/Week 6: [College enrollment :student:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W06_College_Enrollment)
  - 2021/Week 7: [Wealth & Income in the US :moneybag:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W07_Wealth_%26_Income)
+ - 2021/Week 8: [#DUBOISCHALLENGE :school:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W08_Dubois_Challenge)
  
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 8 2021: #DUBOISCHALLENGE** :school: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W08_Dubois_Challenge/W08_Dubois_Challenge.R)
+
+Remake of a plot for the #DuBoisChallenge
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W08_Dubois_Challenge/dubois.png)
 
 ---     
 **Week 7 2021: Wealth & Income in the US** :moneybag: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W07_Wealth_%26_Income/W07_Wealth_%26_Income.R)
@@ -109,12 +117,7 @@ Big Mac Index of selected countries from 2010 to 2020.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W51_Ninja_Warrior/ninja_obstacles.png)
 
----
-**Week 50 2020: Women of 2020** :red_haired_woman: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W50_Women_of_2020/W50_Women_of_2020.R)
 
-South American Women of 2020
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W50_Women_of_2020/women1.png)
 
 
 
