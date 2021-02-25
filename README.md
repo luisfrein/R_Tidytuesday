@@ -36,10 +36,18 @@ These are my last 10 contributions.
  - 2021/Week 6: [College enrollment :student:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W06_College_Enrollment)
  - 2021/Week 7: [Wealth & Income in the US :moneybag:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W07_Wealth_%26_Income)
  - 2021/Week 8: [#DUBOISCHALLENGE :school:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W08_Dubois_Challenge)
+ - 2021/Week 9: [Employed Status :man::woman:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W09_Employed_Status)
  
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 9 2021: Employed Status** :man::woman: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W09_Employed_Status/W09_Employed_Status.R)
+
+Gap between median weekly earnings of men and women in the US.
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W09_Employed_Status/median_earninng.png)
 
 ---     
 **Week 8 2021: #DUBOISCHALLENGE** :school: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W08_Dubois_Challenge/W08_Dubois_Challenge.R)
@@ -109,13 +117,7 @@ Big Mac Index of selected countries from 2010 to 2020.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W52_Big_Mac_Index/Burgernomics.png)
 
----
 
-**Week 51 2020: Ninja Warrior** :climbing: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W51_Ninja_Warrior/W51_Ninja_Warrior.R)
-
-20 Most Common obstacles of Ninja Warrior.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W51_Ninja_Warrior/ninja_obstacles.png)
 
 
 
