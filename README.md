@@ -38,9 +38,17 @@ These are my last 10 contributions.
  - 2021/Week 8: [#DUBOISCHALLENGE :school:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W08_Dubois_Challenge)
  - 2021/Week 9: [Employed Status :man::woman:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W09_Employed_Status)
  - 2021/Week 10: [Superbowl Ads :football:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W10_Superbowl_commercias)
+ - 2021/Week 11: [Bechdel Test :female_detective:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W11_Bechdel_Test)
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 11 2021: Bechdel Test** :female_detective: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W11_Bechdel_Test/W11_Bechdel_Test.R)
+
+Movies that passed or failed the Bechdel test by Genre.
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W11_Bechdel_Test/Bechdel.png)
 
 ---     
 **Week 10 2021: Superbowl Ads** :football: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W10_Superbowl_commercias/W10_Superbowl_commercias.R)
@@ -110,19 +118,6 @@ The 15 Most Common Art Mediums from Tate Art Museum.
 
 ---
 
-**Week 2 2021: Transit Cost Project** :metro: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/W02_TRansit_Cost.R)
-
-Comparisson between PPP rates and cost per km of urban rail.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W02_Transit_Cost/Transit.png)
-
----
-
-**Week 52 2020: Big Mac Index** :hamburger: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W52_Big_Mac_Index/W52_Big_Mac_Index.R)
-
-Big Mac Index of selected countries from 2010 to 2020.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2020/W52_Big_Mac_Index/Burgernomics.png)
 
 
 
