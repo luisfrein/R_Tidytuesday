@@ -35,7 +35,7 @@ movies %>%
     coord_equal() +
     labs(
       title = "The Bechdel Test and Movie Genres",
-      subtitle = glue::glue("<br>The **Bechdel Test** is a test popularized by Alison Bechdel.<br>It follows three criteria:<br><br>1. It has to have at least two women in it.<br>2. Who talk to each other.<br>3. About something besides a man.<br><br>Here's the amount of movies that <span style='color:{colores[['pass']]};'>**passed**</span> or <span style='color:{colores[['fail']]};'>**failed**</span> the<br>Bechdel Test by genre.<br>"),
+      subtitle = glue::glue("<br>The **Bechdel Test** is a test popularized by Alison Bechdel.<br>It follows three criteria:<br><br>1. It has to have at least two women in it.<br>2. Who talk to each other.<br>3. About something besides a man.<br><br>Here's the number of movies that <span style='color:{colores[['pass']]};'>**passed**</span> or <span style='color:{colores[['fail']]};'>**failed**</span> the<br>Bechdel Test by genre.<br>"),
       caption = "Made by **@luisfreii** | Source: **FiveThirtyEight**",
       x = NULL,
       y = "Number of movies\n"
@@ -64,14 +64,14 @@ movies %>%
           )
 
 #Code to save the plot png or svg. Png produces white borders, they can be easily remove with magick::image_trim(). Svg borders can be remove using InkScape.
-  # ggsave("Bechdel1.png",
+  # ggsave("Bechdel.png",
   #        width = 24.5,
   #        height = 14.5,
   #        unit = "cm",
   #        dpi = 320,
   #        type = "cairo-png")
    
-  # ggsave("Bechdel1.svg",
+  # ggsave("Bechdel.svg",
   #        width = 24.5,
   #        height = 14.5,
   #        unit = "cm",
