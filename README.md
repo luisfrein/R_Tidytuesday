@@ -13,19 +13,19 @@ These are my last 10 contributions.
 
 <!-- toc -->
 **Contributions 2020**
- - 2020/Week 15: [Tour de France :bicyclist:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W15_Tour_de_France)
- - 2020/Week 29: [Astronauts :astronaut:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W29_Astronauts)
- - 2020/Week 41: [NCAA Women's Basketball :basketball:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W41_NCAA_women_basketball)
- - 2020/Week 42: [Datasaurus :t-rex:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W42_datasaurus)
- - 2020/Week 43: [Beer Awards :beer:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W43_Beer_Awards)
- - 2020/Week 44: [Canadian Wind Turbines :canada:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W44_Canadian_Wind_Turbines)
- - 2020/Week 45: [Ikea Furniture :couch_and_lamp:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W45_IKEA_Furniture)
- - 2020/Week 46: [Phone Usage :phone:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W46_%20Phone_Usage)
- - 2020/Week 48: [Washigton Trails :sunrise_over_mountains:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W48_Washington_Trails)
- - 2020/Week 49: [Toronto Shelters :family_man_woman_girl_boy:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W49_Toronto_Shelters)
- - 2020/Week 50: [Women of 2020 :red_haired_woman:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W50_Women_of_2020)
- - 2020/Week 51: [Ninja Warrior :climbing:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W51_Ninja_Warrior)
- - 2020/Week 52: [Big Mac Index :hamburger:](https://github.com/luisfrein/R_Tidytuesday/tree/master/W52_Big_Mac_Index)
+ - 2020/Week 15: [Tour de France :bicyclist:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W15_Tour_de_France)
+ - 2020/Week 29: [Astronauts :astronaut:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W29_Astronauts)
+ - 2020/Week 41: [NCAA Women's Basketball :basketball:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W41_NCAA_women_basketball)
+ - 2020/Week 42: [Datasaurus :t-rex:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W42_datasaurus)
+ - 2020/Week 43: [Beer Awards :beer:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W43_Beer_Awards)
+ - 2020/Week 44: [Canadian Wind Turbines :canada:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W44_Canadian_Wind_Turbines)
+ - 2020/Week 45: [Ikea Furniture :couch_and_lamp:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W45_IKEA_Furniture)
+ - 2020/Week 46: [Phone Usage :phone:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W46_%20Phone_Usage)
+ - 2020/Week 48: [Washigton Trails :sunrise_over_mountains:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W48_Washington_Trails)
+ - 2020/Week 49: [Toronto Shelters :family_man_woman_girl_boy:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W49_Toronto_Shelters)
+ - 2020/Week 50: [Women of 2020 :red_haired_woman:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W50_Women_of_2020)
+ - 2020/Week 51: [Ninja Warrior :climbing:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W51_Ninja_Warrior)
+ - 2020/Week 52: [Big Mac Index :hamburger:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2020/W52_Big_Mac_Index)
  
  **Contributions 2021**
  - 2021/Week 1: [Bring Your Own Data](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W01_Bring_your_own_data)
