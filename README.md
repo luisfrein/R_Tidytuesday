@@ -39,9 +39,17 @@ These are my last 10 contributions.
  - 2021/Week 9: [Employed Status :man::woman:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W09_Employed_Status)
  - 2021/Week 10: [Superbowl Ads :football:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W10_Superbowl_commercias)
  - 2021/Week 11: [Bechdel Test :female_detective:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W11_Bechdel_Test)
+ - 2021/Week 12: [Video Games + Sliced :video_game:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W12_Video_Games_and_Sliced)
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 12 2021: Video Games + Sliced** :video_game: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W12_Video_Games_and_Sliced/W12_Video_Games_and_Sliced.R)
+
+The average number of persons playing Crosscode on Steam.
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W12_Video_Games_and_Sliced/crosscode.png)
 
 ---     
 **Week 11 2021: Bechdel Test** :female_detective: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W11_Bechdel_Test/W11_Bechdel_Test.R)
@@ -108,15 +116,8 @@ Cleveland Dot Plot of Kenya's rural and urban population.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W04_Kenya_Census/Kenya_census.png)
 
----
 
-**Week 3 2021: Art Collections** :artist: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W03_Art_Collections/W03_Art_Collections.R)
 
-The 15 Most Common Art Mediums from Tate Art Museum.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W03_Art_Collections/art_med.png)
-
----
 
 
 
