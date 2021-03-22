@@ -9,11 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 1360.63 453.54"
    version="1.1"
-   id="svg440"
+   id="svg448"
    sodipodi:docname="crosscode.svg"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:export-filename="C:\Users\User\Documents\R_projects\R_Tidytuesday\2021\W12_Video_Games_and_Sliced\crosscode.png"
+   inkscape:export-xdpi="320"
+   inkscape:export-ydpi="320">
   <metadata
-     id="metadata444">
+     id="metadata452">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -34,15 +37,16 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
      inkscape:window-height="837"
-     id="namedview442"
+     id="namedview450"
      showgrid="false"
-     inkscape:zoom="0.81432865"
-     inkscape:cx="1286.0109"
+     inkscape:zoom="1.2325395"
+     inkscape:cx="467.17384"
      inkscape:cy="226.77"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg440" />
+     inkscape:current-layer="svg448"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <style
@@ -661,9 +665,10 @@
      id="polygon187" />
   <polyline
      points="1173.07,253.24 1172.91,253.38 1172.19,254.01 1171.28,254.82 1170.48,255.54 1169.79,256.21 1169.13,256.90 1168.55,257.54 1168.02,258.14 1167.46,258.81 1166.87,259.55 1166.31,260.32 1165.82,261.03 1165.38,261.70 1164.91,262.43 1164.43,263.25 1163.97,264.08 1163.57,264.85 1163.22,265.57 1162.86,266.36 1162.48,267.23 1162.14,268.12 1161.85,268.93 1161.60,269.69 1161.34,270.52 1161.08,271.43 1160.85,272.38 1160.63,273.42 1160.40,274.62 1160.22,275.56 1160.18,275.78 "
-     style="stroke-width: 1.07; stroke: #211B44; stroke-linecap: butt;"
+     style="stroke:#211b44;stroke-width:1.07;stroke-linecap:butt"
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
-     id="polyline189" />
+     id="polyline189"
+     transform="matrix(0.81746966,0,0,1.0743745,211.71158,-20.472706)" />
   <polygon
      points="1157.86,269.08 1160.18,275.78 1164.82,270.42 "
      style="stroke-width: 1.07; stroke: #211B44; stroke-linecap: butt; fill: #211B44;"
@@ -693,34 +698,37 @@
   </g>
   <g
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
-     id="g203">
+     id="g203"
+     transform="translate(19.648087,-1.2280054)">
     <text
-       x="466.51"
+       x="466.51001"
        y="119.41"
-       style="font-size: 9.96px; fill: #211B44; font-family: Eight Bit Dragon;"
-       textLength="191.17px"
+       style="font-size:9.96px;font-family:'Eight Bit Dragon';fill:#211b44"
+       textLength="191.17"
        lengthAdjust="spacingAndGlyphs"
        id="text201">The full game released for Linux,</text>
   </g>
   <g
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
-     id="g207">
+     id="g207"
+     transform="translate(20.876092,-2.4560108)">
     <text
-       x="466.51"
+       x="466.51001"
        y="133.75"
-       style="font-size: 9.96px; fill: #211B44; font-family: Eight Bit Dragon;"
-       textLength="192.17px"
+       style="font-size:9.96px;font-family:'Eight Bit Dragon';fill:#211b44"
+       textLength="192.17"
        lengthAdjust="spacingAndGlyphs"
        id="text205">macOS, and Windows in September</text>
   </g>
   <g
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
-     id="g211">
+     id="g211"
+     transform="translate(19.648087,-1.2280054)">
     <text
-       x="466.51"
+       x="466.51001"
        y="148.09"
-       style="font-size: 9.96px; fill: #211B44; font-family: Eight Bit Dragon;"
-       textLength="27.88px"
+       style="font-size:9.96px;font-family:'Eight Bit Dragon';fill:#211b44"
+       textLength="27.879999"
        lengthAdjust="spacingAndGlyphs"
        id="text209">2018</text>
   </g>
@@ -761,7 +769,7 @@
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
      id="g227">
     <text
-       x="1176.30"
+       x="1173.07"
        y="239.62"
        style="font-size: 9.96px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="156.33px"
@@ -772,7 +780,7 @@
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
      id="g231">
     <text
-       x="1176.30"
+       x="1173.07"
        y="253.96"
        style="font-size: 9.96px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="171.26px"
@@ -783,7 +791,7 @@
      clip-path="url(#cpMTM2LjEyfDEzNTUuMTV8Mzg3Ljc1fDU0LjMx)"
      id="g235">
     <text
-       x="1176.30"
+       x="1173.07"
        y="268.30"
        style="font-size: 9.96px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="35.85px"
@@ -1224,48 +1232,48 @@
        style="font-size: 11.00px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="68.19px"
        lengthAdjust="spacingAndGlyphs"
-       id="text412">of Players</text>
+       id="text412">of players</text>
   </g>
   <g
      clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
      id="g418">
     <text
-       x="136.12"
-       y="35.85"
+       x="5.48"
+       y="87.97"
        style="font-size: 11.00px; fill: #211B44; font-family: Eight Bit Dragon;"
-       textLength="301.36px"
+       textLength="90.19px"
        lengthAdjust="spacingAndGlyphs"
-       id="text416">Number of players playing CrossCode on Steam</text>
+       id="text416">playing at the</text>
   </g>
   <g
      clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
      id="g422">
     <text
-       x="136.12"
-       y="47.73"
+       x="5.48"
+       y="99.85"
        style="font-size: 11.00px; fill: #211B44; font-family: Eight Bit Dragon;"
-       textLength="0.00px"
+       textLength="62.69px"
        lengthAdjust="spacingAndGlyphs"
-       id="text420" />
+       id="text420">same time</text>
   </g>
   <g
      clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
      id="g426">
     <text
        x="136.12"
-       y="18.98"
-       style="font-size: 15.00px; fill: #211B44; font-family: Eight Bit Dragon;"
-       textLength="326.96px"
+       y="35.85"
+       style="font-size: 11.00px; fill: #211B44; font-family: Eight Bit Dragon;"
+       textLength="301.36px"
        lengthAdjust="spacingAndGlyphs"
-       id="text424">Number of Seekers in the Playground</text>
+       id="text424">Number of players playing CrossCode on Steam</text>
   </g>
   <g
      clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
      id="g430">
     <text
-       x="1355.15"
-       y="425.47"
-       style="font-size: 10.00px; fill: #211B44; font-family: Eight Bit Dragon;"
+       x="136.12"
+       y="47.73"
+       style="font-size: 11.00px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="0.00px"
        lengthAdjust="spacingAndGlyphs"
        id="text428" />
@@ -1274,22 +1282,44 @@
      clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
      id="g434">
     <text
+       x="136.12"
+       y="18.98"
+       style="font-size: 15.00px; fill: #211B44; font-family: Eight Bit Dragon;"
+       textLength="326.96px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text432">Number of Seekers in the Playground</text>
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
+     id="g438">
+    <text
+       x="1355.15"
+       y="425.47"
+       style="font-size: 10.00px; fill: #211B44; font-family: Eight Bit Dragon;"
+       textLength="0.00px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text436" />
+  </g>
+  <g
+     clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
+     id="g442">
+    <text
        x="1355.15"
        y="436.27"
        style="font-size: 10.00px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="0.00px"
        lengthAdjust="spacingAndGlyphs"
-       id="text432" />
+       id="text440" />
   </g>
   <g
      clip-path="url(#cpMC4wMHwxMzYwLjYzfDQ1My41NHwwLjAw)"
-     id="g438">
+     id="g446">
     <text
        x="1158.19"
        y="447.07"
        style="font-size: 10.00px; fill: #211B44; font-family: Eight Bit Dragon;"
        textLength="196.96px"
        lengthAdjust="spacingAndGlyphs"
-       id="text436">Made by @luisfreii | Source: Steam</text>
+       id="text444">Made by @luisfreii | Source: Steam</text>
   </g>
 </svg>
