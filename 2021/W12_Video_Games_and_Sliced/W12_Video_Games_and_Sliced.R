@@ -88,7 +88,7 @@ games %>%
   labs(title = "Number of Seekers in the Playground",
        subtitle = "Number of players playing CrossCode on Steam\n",
        caption = "\n\nMade by @luisfreii | Source: Steam",
-       y = "Average Number\nof Players",
+       y = "Average Number\nof players\nplaying at the\nsame time",
        x = NULL) +
   theme(axis.title.y = element_text(angle = 0,
                                     hjust = 0,
@@ -116,7 +116,7 @@ games %>%
 #        width = 48,
 #        height = 16,
 #        unit = "cm",
-#        dpi = 320)       
+#        dpi = 320)
 
 #PNG
 # ggsave("crosscode.png",
