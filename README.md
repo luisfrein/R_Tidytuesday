@@ -40,9 +40,17 @@ These are my last 10 contributions.
  - 2021/Week 10: [Superbowl Ads :football:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W10_Superbowl_commercias)
  - 2021/Week 11: [Bechdel Test :female_detective:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W11_Bechdel_Test)
  - 2021/Week 12: [Video Games + Sliced :video_game:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W12_Video_Games_and_Sliced)
+ - 2021/Week 13: [UN Votes :united_nations:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W13_UN_Votes)
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 13 2021: UN Votes** :united_nations: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W13_UN_Votes/W13_UN_Votes.R)
+
+Abstract art made with UN votes data. I named it "**Bola de Fuego**".
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W13_UN_Votes/UN_art.png)
 
 ---     
 **Week 12 2021: Video Games + Sliced** :video_game: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W12_Video_Games_and_Sliced/W12_Video_Games_and_Sliced.R)
