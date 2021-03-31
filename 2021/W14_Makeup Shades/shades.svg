@@ -37,12 +37,13 @@
      id="namedview14119"
      showgrid="false"
      inkscape:zoom="1.6290957"
-     inkscape:cx="107.99996"
-     inkscape:cy="751.44596"
+     inkscape:cx="372.83786"
+     inkscape:cy="58.178228"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14117" />
+     inkscape:current-layer="svg14117"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <style
@@ -58,10 +59,14 @@
   ]]></style>
   </defs>
   <rect
-     width="100%"
-     height="100%"
-     style="stroke: none; fill: #FFFFFF;"
-     id="rect6" />
+     width="97.812279%"
+     height="97.988846%"
+     style="fill:#ffffff;stroke:none;stroke-width:0.979006"
+     id="rect6"
+     x="6.8908987"
+     y="6.9299212"
+     inkscape:export-xdpi="320.20001"
+     inkscape:export-ydpi="320.20001" />
   <rect
      x="7.3534179"
      y="7.6039915"
@@ -48486,23 +48491,25 @@
      id="polyline13903" />
   <g
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
-     id="g13907">
+     id="g13907"
+     transform="translate(3.0691874,-3.0691874)">
     <text
-       transform="translate(510.26,68.96) rotate(-50)"
-       style="font-size: 11.38px; fill: #F9874E; font-family: Fira Sans Medium;"
-       textLength="24.04px"
+       transform="rotate(-50,329.0726,-512.64805)"
+       style="font-size:11.38px;font-family:'Fira Sans Medium';fill:#f9874e"
+       textLength="24.040001"
        lengthAdjust="spacingAndGlyphs"
-       id="text13905"> Hue</text>
+       id="text13905">Hue</text>
   </g>
   <g
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
-     id="g13911">
+     id="g13911"
+     transform="translate(3.0691874,-3.6830249)">
     <text
-       transform="translate(522.82,79.49) rotate(-50)"
-       style="font-size: 11.38px; fill: #F9874E; font-family: Fira Sans Medium;"
-       textLength="30.49px"
+       transform="rotate(-50,346.64343,-520.85055)"
+       style="font-size:11.38px;font-family:'Fira Sans Medium';fill:#f9874e"
+       textLength="30.49"
        lengthAdjust="spacingAndGlyphs"
-       id="text13909"> 0-45°</text>
+       id="text13909">0-45°</text>
   </g>
   <defs
      id="defs13917">
