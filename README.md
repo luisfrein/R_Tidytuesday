@@ -41,9 +41,17 @@ These are my last 10 contributions.
  - 2021/Week 11: [Bechdel Test :female_detective:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W11_Bechdel_Test)
  - 2021/Week 12: [Video Games + Sliced :video_game:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W12_Video_Games_and_Sliced)
  - 2021/Week 13: [UN Votes :united_nations:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W13_UN_Votes)
+ - 2021/Week 14: [Makeup Shades 💄](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W14_Makeup%20Shades)
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 14 2021: Makeup Shades** 💄 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W14_Makeup%20Shades/Makeup%20Shades.R)
+
+How Brands Make their Shades?
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W14_Makeup%20Shades/shades.png)
 
 ---     
 **Week 13 2021: UN Votes** :united_nations: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W13_UN_Votes/W13_UN_Votes.R)
