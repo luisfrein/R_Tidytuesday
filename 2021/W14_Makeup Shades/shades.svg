@@ -10,7 +10,7 @@
    viewBox="0 0 623.62 680.31"
    version="1.1"
    id="svg14117"
-   sodipodi:docname="shade.svg"
+   sodipodi:docname="shades.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata14121">
@@ -36,9 +36,9 @@
      inkscape:window-height="716"
      id="namedview14119"
      showgrid="false"
-     inkscape:zoom="1.3249068"
-     inkscape:cx="393.12596"
-     inkscape:cy="487.68846"
+     inkscape:zoom="1.6290957"
+     inkscape:cx="107.99996"
+     inkscape:cy="751.44596"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -58,19 +58,19 @@
   ]]></style>
   </defs>
   <rect
-     width="98.048225%"
-     height="97.961708%"
-     style="fill:#ffffff;stroke:none;stroke-width:0.980049"
-     id="rect6"
-     x="5.3787441"
-     y="6.3190093" />
+     width="100%"
+     height="100%"
+     style="stroke: none; fill: #FFFFFF;"
+     id="rect6" />
   <rect
-     x="7.4361534"
-     y="6.0930791"
-     width="608.74127"
-     height="666.77441"
-     style="fill:#ffffff;stroke:#ffffff;stroke-width:1.04658"
-     id="rect8" />
+     x="7.3534179"
+     y="7.6039915"
+     width="608.9068"
+     height="664.73248"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:1.04513"
+     id="rect8"
+     inkscape:export-xdpi="320.20001"
+     inkscape:export-ydpi="320.20001" />
   <defs
      id="defs13">
     <clipPath
@@ -48420,6 +48420,11 @@
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
      id="polyline13877" />
   <polyline
+     points="505.62,72.45 505.62,71.65 505.62,70.85 505.62,70.05 "
+     style="stroke-width: 1.07; stroke: #F9874E; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
+     id="polyline13879" />
+  <polyline
      points="518.34,77.72 518.90,77.15 519.46,76.59 520.03,76.02 "
      style="stroke-width: 1.07; stroke: #F9874E; stroke-linecap: butt;"
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
@@ -48469,27 +48474,35 @@
      style="stroke-width: 1.07; stroke: #F9874E; stroke-linecap: butt;"
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
      id="polyline13899" />
+  <polyline
+     points="518.34,77.72 518.90,77.15 519.46,76.59 520.03,76.02 "
+     style="stroke-width: 1.07; stroke: #F9874E; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
+     id="polyline13901" />
+  <polyline
+     points="518.34,77.72 518.90,77.15 519.46,76.59 520.03,76.02 "
+     style="stroke-width: 1.07; stroke: #F9874E; stroke-linecap: butt;"
+     clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
+     id="polyline13903" />
   <g
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
-     id="g13907"
-     transform="translate(5.4592356,-3.474059)">
+     id="g13907">
     <text
-       transform="rotate(-50,329.0726,-512.64805)"
-       style="font-size:11.38px;font-family:'Fira Sans Medium';fill:#f9874e"
-       textLength="24.040001"
+       transform="translate(510.26,68.96) rotate(-50)"
+       style="font-size: 11.38px; fill: #F9874E; font-family: Fira Sans Medium;"
+       textLength="24.04px"
        lengthAdjust="spacingAndGlyphs"
-       id="text13905">Hue</text>
+       id="text13905"> Hue</text>
   </g>
   <g
      clip-path="url(#cpMC4wMHw2MjMuNjJ8NjgwLjMxfDAuMDA=)"
-     id="g13911"
-     transform="translate(3.474059,-3.9703532)">
+     id="g13911">
     <text
-       transform="rotate(-50,346.64343,-520.85055)"
-       style="font-size:11.38px;font-family:'Fira Sans Medium';fill:#f9874e"
-       textLength="30.49"
+       transform="translate(522.82,79.49) rotate(-50)"
+       style="font-size: 11.38px; fill: #F9874E; font-family: Fira Sans Medium;"
+       textLength="30.49px"
        lengthAdjust="spacingAndGlyphs"
-       id="text13909">0-45°</text>
+       id="text13909"> 0-45°</text>
   </g>
   <defs
      id="defs13917">
