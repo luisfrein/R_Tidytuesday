@@ -43,16 +43,25 @@ These are my last 10 contributions.
  - 2021/Week 13: [UN Votes :united_nations:](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W13_UN_Votes)
  - 2021/Week 14: [Makeup Shades 💄](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W14_Makeup%20Shades)
  - 2021/Week 15: [Deforestation 🌳](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W15_Deforestation)
+ - 2021/Week 16: [US Post Offices 📫](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W16_US_Post_Offices)
  
 <!-- tocstop -->
 </details>
 
 ---     
+**Week 16 2021: US Post Offices** 📫 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W16_US_Post_Offices/W16_US_Post_Offices.R)
+
+Us Post Offices by State.
+
+![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W16_US_Post_Offices/W16_US_Post_Offices.png)
+
+---     
 **Week 15 2021: Deforestation** 🌳 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/W15_Deforestation.R)
 
-Leading causes of loss of forest in Brazil
+Leading causes of loss of forest in Brazil.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/6.Experimental.png)
+
 ---     
 **Week 14 2021: Makeup Shades** 💄 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W14_Makeup%20Shades/Makeup%20Shades.R)
 
@@ -116,28 +125,6 @@ Map of Corruption Perception Index
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/cpi_map.png)
 
----     
-**Week 6 2021: College enrollment** :student: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W06_College_Enrollment/W06_College_Enrollment.Rmd)
-
-Percentage of High School graduates by ethnicity from 2003 to 2016
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W06_College_Enrollment/HighSchool_percentage.png)
-
----    
-
-**Week 5 2021: #breakfreefromplastic** :cup_with_straw: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/W05_Plastic_Pollution.R)
-
-Treemap of worst polluters in the Philippines
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W05_Plastic_Pollution/Philippines_worst.png)
-
----
-
-**Week 4 2021: Kenya Census** :kenya: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W04_Kenya_Census/W04_Kenya_Census.R)
-
-Cleveland Dot Plot of Kenya's rural and urban population.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W04_Kenya_Census/Kenya_census.png)
 
 
 
