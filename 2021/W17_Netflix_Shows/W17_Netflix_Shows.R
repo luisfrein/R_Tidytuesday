@@ -21,7 +21,7 @@ netflix_raw %>%
 tibble(
   annotation = c('MOVIE', 'TV SHOW', 'Anime is Getting Popular', 'Number of anime titles added to Netflix.\nFrom 2016 to 2020.'),
   x = c(2019, 2019, 2016.5, 2016.5),
-  y = c(55, 25, 60, 55),
+  y = c(53, 25, 60, 52),
   size = c(8, 8, 8, 4),
   color = c('#F5F5F5', '#F5F5F5', '#525252', '#525252'),
   family = c('Fira Sans', 'Fira Sans', 'IBM Plex Sans', 'Fira Sans'),
