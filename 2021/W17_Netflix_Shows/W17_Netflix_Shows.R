@@ -66,5 +66,5 @@ anim <- animate(a1,
                 height = 13, width = 19, units = "cm", res = 150)
 
 #Code to save the animation
-#anim_save("W16.Netflix Titles.gif", animation = last_animation())
+#anim_save("W17.Netflix Titles.gif", animation = last_animation())
 
