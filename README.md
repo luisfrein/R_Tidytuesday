@@ -44,9 +44,17 @@ These are my last 10 contributions.
  - 2021/Week 14: [Makeup Shades 💄](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W14_Makeup%20Shades)
  - 2021/Week 15: [Deforestation 🌳](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W15_Deforestation)
  - 2021/Week 16: [US Post Offices 📫](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W16_US_Post_Offices)
+ - 2021/Week 17: [Netflix Shows 📺](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W17_Netflix_Shows)
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 17 2021: Netflix Shows** 📺 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W17_Netflix_Shows.R)
+
+Anime Titles are Getting Popular.
+
+![Area chart that shows the number of anime titles (in black) and anime movies (in red) that has been added t0 Netflix from 2016 to 2020. The overall number of titles has increased throught the years](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W16.Netflix%20Titles.gif)
 
 ---     
 **Week 16 2021: US Post Offices** 📫 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W16_US_Post_Offices/W16_US_Post_Offices.R)
@@ -111,19 +119,7 @@ Remake of a plot for the #DuBoisChallenge
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W08_Dubois_Challenge/dubois.png)
 
----     
-**Week 7 2021: Wealth & Income in the US** :moneybag: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W07_Wealth_%26_Income/W07_Wealth_%26_Income.R)
 
-Area plot of Income percentage
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W07_Wealth_%26_Income/Income_area.png)
-
----     
-**Week 1 2021: Bring Your Own Data** :world_map: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/W01_corruption_perception.R)
-
-Map of Corruption Perception Index
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W01_Bring_your_own_data/cpi_map.png)
 
 
 
