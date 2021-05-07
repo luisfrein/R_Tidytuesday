@@ -45,9 +45,17 @@ These are my last 10 contributions.
  - 2021/Week 15: [Deforestation 🌳](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W15_Deforestation)
  - 2021/Week 16: [US Post Offices 📫](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W16_US_Post_Offices)
  - 2021/Week 17: [Netflix Shows 📺](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W17_Netflix_Shows)
+ - 2021/Week 18: [CEO Departures 👩‍💼](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W18_CEO_Departures)
  
 <!-- tocstop -->
 </details>
+
+---     
+**Week 18 2021: CEO Departures** 👩‍💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W18_CEO_Departures/W18_CEO_Departures.R)
+
+For What Reason Do CEOs Depart Firms?
+
+![Bar chart that shows the voluntary and involuntary reasons for CEO departures in the S&P 1500 firms. The reason of departures are ordered from most common to least common: Retirement 3598 departures, Dismissed for job perfomance 1320, Dismissed for legal violations or concerns 195, left for a new opportunity 183, illness 97 and death 84.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W18_CEO_Departures/W18.png)
 
 ---     
 **Week 17 2021: Netflix Shows** 📺 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W17_Netflix_Shows.R)
