@@ -1,0 +1,73 @@
+Book,Author,Gender,Author's country of origin,Rating Out of 10,Year Read,Month Finished Read,Year Published,Genre,Word count,Series,Series Name,Book_language
+Animal Farm,George Orwell,Male,United Kingdom,9.00,2018,,1945,Fiction,38528,No,,Spanish
+1984,George Orwell,Male,United Kingdom,9.00,,,1949,Fiction,90000,No,,Spanish
+The Hunger Games,Suzanne Collins,Female,United States,7.50,,,2008,Young Adult,94743,Yes,The Hunger Games,Spanish
+Catching Fire,Suzanne Collins,Female,United States,8.00,,,2009,Young Adult,98690,Yes,The Hunger Games,English
+Mockingjay,Suzanne Collins,Female,United States,7.00,,,2010,Young Adult,98690,Yes,The Hunger Games,English
+The Metamorphosis,Franz Kafka,Male,Czequia,8.00,,,1915,Fiction,35220,No,,English
+The Little Prince ,Antoine de Saint-Exupéry,Male,France,7.50,,,1943,Classics,28846,No,,Spanish
+Cien Años de Soledad,Gabriel García Márquez,Male,Colombia,8.50,,,1967,Magical Realism,114883,No,,Spanish
+A Feast for Crows,George R. R. Martin,Male,United States,8.50,,,2005,Fantasy,309475,Yes,A Song of Ice and Fire,Spanish
+Caballo de Troya 1 ,JJ Benítez,Male,Spain,6.00,2020,March,1984,Historical Fiction,195506,Yes,Caballo de Troya,Spanish
+Caballo de Troya 2 ,JJ Benítez,Male,Spain,5.00,2020,March,1986,Historical Fiction,157014,Yes,Caballo de Troya,Spanish
+Liubliana ,Eduardo Sánchez Rugeles,Male,Venezuela,9.00,2020,March,2012,Drama,90106,No,,Spanish
+Blue Label,Eduardo Sánchez Rugeles,Male,Venezuela,10.00,2020,April,2010,Young Adult,66096,No,,Spanish
+The Martian Chronicles,Ray Bradbury,Male,United States,6.00,2020,April,1950,Science Fiction,71767,No,,English
+Las Aventuras de Juan Planchard,Jonathan Jakubowicz,Male,Venezuela,6.00,2020,April,2016,Fiction,82636,Yes,Las Aventuras de Juan Planchard,English
+The Road ,Cormac McCarthy,Male,United States,8.00,2020,April,2006,Apocalyptic,79053,No,,Spanish
+World War Z,Max Brooks,Male,United States,8.50,2020,May,2006,Zombies/Apocalyptic,95899,Yes,World War Z,English
+The Name of the Wind,Patrick Rothfus,Male,United States,9.00,2020,May,2007,Fantasy,217273,Yes,Kingkiller Chronicle,English
+The Wise Man's Fear,Patrick Rothfus,Male,United States,8.50,2020,May,2011,Fantasy,337007,Yes,Kingkiller Chronicle,English
+Meditations,Marcus Aurelius,Male,Rome,10.00,2020,June,180,Philosophy,70507,No,,English
+Letter From a Stoic,Senaca,Male,Rome,10.00,2020,June,64,Philosophy,69956,No,,English
+The Enchiridion,Epictetus,Male,Greece,8.50,2020,June,125,Philosophy,8816,No,,English
+Mistborn: The Final Empire,Brandon Sanderson,Male,United States,9.50,2020,July,2006,Fantasy,202231,Yes,Mistborn First Era,English
+Mistborn: The Well of Ascension ,Brandon Sanderson,Male,United States,9.00,2020,July,2007,Fantasy,235925,Yes,Mistborn First Era,English
+Mistborn: The Hero of Ages,Brandon Sanderson,Male,United States,10.00,2020,July,2008,Fantasy,235925,Yes,Mistborn First Era,English
+Transylvania Unplugged,Eduardo Sánchez Rugeles,Male,Venezuela,7.50,2020,August,2011,Drama,80000,No,,Spanish
+Elantris,Brandon Sanderson,Male,United States,8.00,2020,August,2005,Fantasy,192003,Yes,Elantris,English
+How to Think like a Roman Emperor,Donald Robertson,Male,Scotland,8.50,2020,August,2019,Philosophy,81761,No,,English
+A Canticle for Leibowitz,Walter M. Miller,Male,United States,6.00,2020,August,1959,Science Fiction,103195,No,,English
+The Art of Data science,Roger D. Peng,Male,United States,7.00,2020,August,2015,Data Science,45692,No,,English
+Percy Jackson and the Lightning Thief,Rick Riordan,Male,United States,7.00,2020,September,2005,Adventure,125217,Yes,Percy Jackson and the Olympians,English
+Percy Jackson and the Sea of Monsters,Rick Riordan,Male,United States,7.50,2020,September,2006,Adventure,96311,Yes,Percy Jackson and the Olympians,English
+Percy Jackson and the Titan's Curse,Rick Riordan,Male,United States,8.00,2020,September,2007,Adventure,111080,Yes,Percy Jackson and the Olympians,English
+Percy Jackson and the Battle of the Labyrinth,Rick Riordan,Male,United States,8.00,2020,September,2008,Adventure,120403,Yes,Percy Jackson and the Olympians,English
+Percy Jackson and the Last Olympian,Rick Riordan,Male,United States,8.00,2020,September,2009,Adventure,106580,Yes,Percy Jackson and the Olympians,English
+ And Every Morning the Way Home gets Longer and Longer,Fredrick Backman,Male,Sweden,7.50,2020,September,2015,Fiction,10005,No,,English
+Sun and Steel,Yukio Mishima,Male,Japan,6.00,2020,October,1968,Philosophy,28604,No,,English
+R for Data Science,Hadley Wickham & Garrett Grolemund,Male,New Zealand,10.00,2020,October,2016,Data Science,139859,No,,English
+Warbreaker,Brandon Sanderson,Male,United States,9.00,2020,October,2009,Fantasy,207045,Yes,Warbreaker,English
+Storytelling with Data,Cole Nussbaumer Knaflic,Male,United States,8.50,2020,October,2015,Data Science,77454,No,,English
+The Lost Hero,Rick Riordan,Male,United States,7.00,2020,October,2010,Adventure,178164,Yes,The Heroes of Olympus,English
+The son of Neptune,Rick Riordan,Male,United States,9.00,2020,October,2011,Adventure,168538,Yes,The Heroes of Olympus,English
+The Mark of Athena,Rick Riordan,Male,United States,9.00,2020,November,2012,Adventure,202231,Yes,The Heroes of Olympus,English
+The House of Hades,Rick Riordan,Male,United States,8.50,2020,November,2013,Adventure,202231,Yes,The Heroes of Olympus,English
+Memoria de mis Putas Tristes ,Gabriel García Márquez,Male,Colombia,6.00,2020,November,2004,Magical Realism,30809,No,,Spanish
+Brave New World,Aldous Huxley,Male,United Kingdom,7.00,2020,November,1932,Dystopia,80746,No,,English
+The Blood of Olympus ,Rick Riordan,Male,United States,7.50,2020,November,2014,Adventure,163724,Yes,The Heroes of Olympus,English
+I Am Legend,Richard Matheson,Male,United States,10.00,2020,November,1954,Apocalyptic,89726,No,,English
+2001: A Space Odyssey,Arthur C. Clarke,Male,United Kingdom,7.50,2020,November,1968,Science Fiction,82992,No,,English
+Childhood's End,Arthur C. Clarke,Male,United Kingdom,8.00,2020,December,1954,Science Fiction,62787,No,,English
+Rendezvous With Rama,Arthur C. Clarke,Male,United Kingdom,9.00,2020,December,1973,Science Fiction,85236,Yes,Rama,English
+The Three Body Problem,Cixin Liu,Male,China,8.00,2020,December,2006,Science Fiction,116656,Yes,Remembrance of Earth's Past,English
+The Dark Forest,Cixin Liu,Male,China,8.50,2020,December,2008,Science Fiction,148045,Yes,Remembrance of Earth's Past,English
+Stoicism and The Art of Happiness ,Donald Robertson,Male,Scotland,8.50,2021,January,2013,Philosophy,68841,No,,English
+Beautiful Evidence,Edward Tufte,Male,United States,9.00,2021,January,2006,Design,53250,No,,English
+Light of the Jedi,Charles Soule,Male,United States,7.50,2021,January,2021,Science Fiction,84000,Yes,The High Republic,English
+The way of Kings,Brandon Sanderson,Male,United States,9.50,2021,February,2010,Fantasy,385142,Yes,The stormlight Archive,English
+Words of Radiance,Brandon Sanderson,Male,United States,10.00,2021,February,2014,Fantasy,399582,Yes,The stormlight Archive,English
+To Kill a Mockingbird,Harper Lee,Female,United States,8.50,2021,February,1960,Historical Fiction,100388,No,,English
+The Song of Achilles,Madeline Miller,Female,United States,6.80,2021,March,2011,Fantasy,105243,No,,English
+Color: A Workshop for Artists and Designers,David Hornung,Male,United States,8.00,2021,March,2004,Education,43000,No,,English
+Steal Like An Artist,Austin Kleon,Male,United States,7.00,2021,March,2012,Non Fiction,43000,No,,English
+The Practicing Stoic,Ward Farnsworth,Male,United States,9.00,2021,April,2018,Philosophy,76544,No,,English
+No Surrender,Hiroo Onoda,Male,Japan,8.00,2021,May,1974,Non Fiction,67843,No,,English
+Edgedancer,Brandon Sanderson,Male,United States,8.50,2021,May,2017,Fantasy,81328,Yes,The stormlight Archive,English
+Death's End,Cixin Liu,Male,China,7.50,2021,June,2010,Science Fiction,174950,Yes,Remembrance of Earth's Past,English
+Meditations,Marcus Aurelius,Male,Rome,10.00,2021,June,180,Philosophy,70507,No,,English
+Noli Me Tángere,José Rizal,Male,The Philippines,7.50,2021,July,1887,Historical Fiction,140530,Yes,Noli Me Tángere,Spanish
+Oathbringer,Brandon Sanderson,Male,United States,8.50,2021,August,2017,Fantasy,380328,Yes,The stormlight Archive,English
+Dawnshard,Brandon Sanderson,Male,United States,8.50,2021,August,2020,Fantasy,51129,Yes,The stormlight Archive,English
+Rhythm of War,Brandon Sanderson,Male,United States,8.50,2021,September,2020,Fantasy,370701,Yes,The stormlight Archive,English
+Man's Search for Meaning,Viktor Frankl,Male,Austria,8.00,2021,December,1946,Non Fiction,58142,No,,English
