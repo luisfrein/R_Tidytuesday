@@ -41,9 +41,9 @@ books_avg_words %>%
 
 #Tibble with annotations
 tibble(
-  month = as.Date(c('2021-06-01', '2021-12-01', '2021-02-01', '2021-09-01')),
+  month = as.Date(c('2021-06-01', '2021-12-01', '2021-02-01', '2021-09-03')),
   y = c(2, 1, 3, 1),
-  labels = c('Reread The Meditations', "Got out of my\n reader's block", 'Started reading The\nStormlight Archive Series', "Reader's block\nstarted")
+  labels = c('Reread The Meditations', "Got out of my\n reader's block", 'Started reading The\nStormlight Archive Series', "Reader's block\nstarted after\nthis month")
 ) -> annotations
 
 books_4plot %>% 
@@ -103,14 +103,14 @@ books_4plot %>%
         plot.margin = margin(25, 15, 10, 15))
 
 #Code to save the plot
-ggsave('D24.Monochrome.svg',
-       width = 25,
-       height = 15,
-       units = 'cm',
-       dpi = 320)
+# ggsave('W01_2022.svg',
+#        width = 25,
+#        height = 15,
+#        units = 'cm',
+#        dpi = 320)
 
-ggsave('D24.Monochrome.png',
-       width = 24,
-       height = 15,
-       units = 'cm',
-       dpi = 320)
+# ggsave('W01_2022.png',
+#        width = 25,
+#        height = 15,
+#        units = 'cm',
+#        dpi = 320)

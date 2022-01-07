@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 708.66 425.20"
    version="1.1"
-   id="svg178"
-   sodipodi:docname="D24.Monochrome.svg"
-   inkscape:export-filename="C:\Users\Personal\Desktop\RProjects\R_Tidytuesday\2022\W01_Bring_your_own_data\W01_Bring_your_own_data.png"
+   id="svg180"
+   sodipodi:docname="W01_2022.svg"
+   inkscape:export-filename="C:\Users\Personal\Desktop\RProjects\R_Tidytuesday\2022\W01_Bring_your_own_data\W01_2022.png"
    inkscape:export-xdpi="320.20001"
    inkscape:export-ydpi="320.20001"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata182">
+     id="metadata184">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -37,15 +37,15 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
      inkscape:window-height="716"
-     id="namedview180"
+     id="namedview182"
      showgrid="false"
-     inkscape:zoom="1.2888052"
-     inkscape:cx="354.32999"
+     inkscape:zoom="1.044997"
+     inkscape:cx="327.78208"
      inkscape:cy="212.60001"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg178" />
+     inkscape:current-layer="svg180" />
   <defs
      id="defs4">
     <style
@@ -73,11 +73,11 @@
      style="stroke-width: 1.07; stroke: #FFFFFF; fill: #F5F5F5;"
      id="rect8" />
   <rect
-     x="37.45"
-     y="117.76"
-     width="656.27"
-     height="262.30"
-     style="stroke-width: 1.07; stroke: none; fill: #F5F5F5;"
+     x="37.450001"
+     y="119.31183"
+     width="656.27002"
+     height="262.29999"
+     style="fill:#f5f5f5;stroke:none;stroke-width:1.07"
      id="rect10" />
   <polyline
      points="67.28,129.68 122.65,129.68 172.67,129.68 228.04,288.65 281.63,209.17 337.00,209.17 390.59,288.65 445.96,209.17 501.34,288.65 554.93,368.14 610.30,368.14 663.89,288.65 "
@@ -164,7 +164,7 @@
      style="stroke-width: 1.07; stroke: none;"
      id="polyline40" />
   <polyline
-     points="515.51,288.64 515.48,287.75 515.40,286.87 515.26,285.99 515.07,285.12 514.82,284.26 514.52,283.43 514.16,282.61 513.76,281.82 513.30,281.05 512.80,280.31 512.26,279.61 511.67,278.94 511.04,278.31 510.37,277.72 509.67,277.18 508.93,276.68 508.17,276.22 507.37,275.82 506.55,275.47 505.72,275.16 504.86,274.92 503.99,274.72 503.11,274.58 502.23,274.50 501.34,274.47 500.45,274.50 499.56,274.58 498.68,274.72 497.81,274.92 496.96,275.16 496.12,275.47 495.30,275.82 494.51,276.22 493.74,276.68 493.01,277.18 492.30,277.72 491.64,278.31 491.01,278.94 490.42,279.61 489.87,280.31 489.37,281.05 488.92,281.82 488.51,282.61 488.16,283.43 487.86,284.26 487.61,285.12 487.42,285.99 487.28,286.87 487.19,287.75 487.16,288.64 487.19,289.53 487.28,290.42 487.42,291.30 487.61,292.17 487.86,293.02 488.16,293.86 488.51,294.68 488.92,295.47 489.37,296.24 489.87,296.98 490.42,297.68 491.01,298.35 491.64,298.98 492.30,299.56 493.01,300.11 493.74,300.61 494.51,301.06 495.30,301.47 496.12,301.82 496.96,302.12 497.81,302.37 498.68,302.57 499.56,302.71 500.45,302.79 501.34,302.82 502.23,302.79 503.11,302.71 503.99,302.57 504.86,302.37 505.72,302.12 506.55,301.82 507.37,301.47 508.17,301.06 508.93,300.61 509.67,300.11 510.37,299.56 511.04,298.98 511.67,298.35 512.26,297.68 512.80,296.98 513.30,296.24 513.76,295.47 514.16,294.68 514.52,293.86 514.82,293.02 515.07,292.17 515.26,291.30 515.40,290.42 515.48,289.53 515.51,288.64 "
+     points="519.08,288.64 519.05,287.75 518.97,286.87 518.83,285.99 518.64,285.12 518.39,284.26 518.09,283.43 517.73,282.61 517.33,281.82 516.88,281.05 516.38,280.31 515.83,279.61 515.24,278.94 514.61,278.31 513.94,277.72 513.24,277.18 512.50,276.68 511.74,276.22 510.94,275.82 510.13,275.47 509.29,275.16 508.43,274.92 507.56,274.72 506.69,274.58 505.80,274.50 504.91,274.47 504.02,274.50 503.13,274.58 502.25,274.72 501.38,274.92 500.53,275.16 499.69,275.47 498.87,275.82 498.08,276.22 497.31,276.68 496.58,277.18 495.87,277.72 495.21,278.31 494.58,278.94 493.99,279.61 493.44,280.31 492.94,281.05 492.49,281.82 492.08,282.61 491.73,283.43 491.43,284.26 491.18,285.12 490.99,285.99 490.85,286.87 490.76,287.75 490.74,288.64 490.76,289.53 490.85,290.42 490.99,291.30 491.18,292.17 491.43,293.02 491.73,293.86 492.08,294.68 492.49,295.47 492.94,296.24 493.44,296.98 493.99,297.68 494.58,298.35 495.21,298.98 495.87,299.56 496.58,300.11 497.31,300.61 498.08,301.06 498.87,301.47 499.69,301.82 500.53,302.12 501.38,302.37 502.25,302.57 503.13,302.71 504.02,302.79 504.91,302.82 505.80,302.79 506.69,302.71 507.56,302.57 508.43,302.37 509.29,302.12 510.13,301.82 510.94,301.47 511.74,301.06 512.50,300.61 513.24,300.11 513.94,299.56 514.61,298.98 515.24,298.35 515.83,297.68 516.38,296.98 516.88,296.24 517.33,295.47 517.73,294.68 518.09,293.86 518.39,293.02 518.64,292.17 518.83,291.30 518.97,290.42 519.05,289.53 519.08,288.64 "
      style="stroke-width: 1.07; stroke: none;"
      id="polyline42" />
   <polyline
@@ -207,380 +207,388 @@
      lengthAdjust="spacingAndGlyphs"
      id="text54">Reread The Meditations</text>
   <rect
-     x="469.24"
-     y="214.00"
+     x="472.81"
+     y="204.40"
      width="64.19"
-     height="26.45"
+     height="36.05"
      style="stroke-width: 0.75; stroke: none;"
      id="rect56" />
   <text
-     x="474.91"
-     y="225.19"
+     x="478.48001"
+     y="215.59"
      style="font-size:8px;font-family:'Fira Sans'"
      textLength="52.860001"
      lengthAdjust="spacingAndGlyphs"
      id="text58"
-     transform="translate(3.1036497,10.086862)">Reader's block</text>
+     transform="translate(0.87061638,5.9802299)">Reader's block</text>
   <text
-     x="474.91"
-     y="234.78999"
+     x="478.48001"
+     y="225.19"
      style="font-size:8px;font-family:'Fira Sans'"
-     textLength="25.959999"
+     textLength="45.380001"
      lengthAdjust="spacingAndGlyphs"
      id="text60"
-     transform="translate(3.8795622,9.3109492)">started</text>
+     transform="translate(1.8735983,5.9802299)">started after</text>
+  <text
+     x="478.48001"
+     y="234.78999"
+     style="font-size:8px;font-family:'Fira Sans'"
+     textLength="39.209999"
+     lengthAdjust="spacingAndGlyphs"
+     id="text62"
+     transform="translate(2.3277373,6.2072994)">this month</text>
   <rect
      x="623.51"
      y="214.00"
      width="64.54"
      height="26.45"
      style="stroke-width: 0.75; stroke: none;"
-     id="rect62" />
+     id="rect64" />
   <text
      x="629.18"
      y="225.19"
      style="font-size: 8.00px; font-family: Fira Sans;"
      textLength="49.22px"
      lengthAdjust="spacingAndGlyphs"
-     id="text64">Got out of my</text>
+     id="text66">Got out of my</text>
   <text
      x="629.18"
      y="234.79"
      style="font-size: 8.00px; font-family: Fira Sans;"
      textLength="53.20px"
      lengthAdjust="spacingAndGlyphs"
-     id="text66"> reader's block</text>
+     id="text68"> reader's block</text>
   <polyline
      points="71.52,177.87 173.79,177.87 171.48,177.87 139.00,145.39 "
      style="stroke-width: 1.07; stroke: #211A1D;"
-     id="polyline68" />
+     id="polyline70" />
   <polyline
      points="385.60,160.97 288.42,160.97 288.42,160.97 320.78,193.33 "
      style="stroke-width: 1.07; stroke: #211A1D;"
-     id="polyline70" />
+     id="polyline72" />
   <polyline
-     points="533.43,240.46 469.24,240.46 469.24,252.17 487.73,270.66 "
+     points="537.01,240.46 472.81,240.46 472.81,252.17 491.30,270.66 "
      style="stroke:#211a1d;stroke-width:1.07"
-     id="polyline72"
-     transform="translate(2.14,9.65)" />
+     id="polyline74"
+     transform="translate(7.57,5.16)" />
   <polyline
      points="623.51,240.46 688.05,240.46 688.05,257.82 676.02,269.85 "
      style="stroke-width: 1.07; stroke: #211A1D;"
-     id="polyline74" />
+     id="polyline76" />
   <text
      x="27.61"
      y="371.17"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="4.91px"
      lengthAdjust="spacingAndGlyphs"
-     id="text76">0</text>
+     id="text78">0</text>
   <text
      x="28.71"
      y="291.68"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="3.81px"
      lengthAdjust="spacingAndGlyphs"
-     id="text78">1</text>
+     id="text80">1</text>
   <text
      x="28.16"
      y="212.20"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="4.36px"
      lengthAdjust="spacingAndGlyphs"
-     id="text80">2</text>
+     id="text82">2</text>
   <text
      x="28.12"
      y="132.71"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="4.39px"
      lengthAdjust="spacingAndGlyphs"
-     id="text82">3</text>
+     id="text84">3</text>
   <polyline
      points="67.28,382.80 67.28,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline84" />
+     id="polyline86" />
   <polyline
      points="122.65,382.80 122.65,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline86" />
+     id="polyline88" />
   <polyline
      points="172.67,382.80 172.67,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline88" />
+     id="polyline90" />
   <polyline
      points="228.04,382.80 228.04,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline90" />
+     id="polyline92" />
   <polyline
      points="281.63,382.80 281.63,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline92" />
+     id="polyline94" />
   <polyline
      points="337.00,382.80 337.00,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline94" />
+     id="polyline96" />
   <polyline
      points="390.59,382.80 390.59,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline96" />
+     id="polyline98" />
   <polyline
      points="445.96,382.80 445.96,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline98" />
+     id="polyline100" />
   <polyline
      points="501.34,382.80 501.34,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline100" />
+     id="polyline102" />
   <polyline
      points="554.93,382.80 554.93,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline102" />
+     id="polyline104" />
   <polyline
      points="610.30,382.80 610.30,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline104" />
+     id="polyline106" />
   <polyline
      points="663.89,382.80 663.89,380.06 "
      style="stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;"
-     id="polyline106" />
+     id="polyline108" />
   <text
      x="61.02"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="12.52px"
      lengthAdjust="spacingAndGlyphs"
-     id="text108">Jan</text>
+     id="text110">Jan</text>
   <text
      x="58.56"
      y="400.56"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="17.43px"
      lengthAdjust="spacingAndGlyphs"
-     id="text110">2021</text>
+     id="text112">2021</text>
   <text
      x="115.52"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="14.26px"
      lengthAdjust="spacingAndGlyphs"
-     id="text112">Feb</text>
+     id="text114">Feb</text>
   <text
      x="165.19"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="14.96px"
      lengthAdjust="spacingAndGlyphs"
-     id="text114">Mar</text>
+     id="text116">Mar</text>
   <text
      x="221.26"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="13.57px"
      lengthAdjust="spacingAndGlyphs"
-     id="text116">Apr</text>
+     id="text118">Apr</text>
   <text
      x="273.67"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="15.92px"
      lengthAdjust="spacingAndGlyphs"
-     id="text118">May</text>
+     id="text120">May</text>
   <text
      x="330.58"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="12.84px"
      lengthAdjust="spacingAndGlyphs"
-     id="text120">Jun</text>
+     id="text122">Jun</text>
   <text
      x="385.42"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="10.33px"
      lengthAdjust="spacingAndGlyphs"
-     id="text122">Jul</text>
+     id="text124">Jul</text>
   <text
      x="438.62"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="14.68px"
      lengthAdjust="spacingAndGlyphs"
-     id="text124">Aug</text>
+     id="text126">Aug</text>
   <text
      x="493.97"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="14.74px"
      lengthAdjust="spacingAndGlyphs"
-     id="text126">Sep</text>
+     id="text128">Sep</text>
   <text
      x="548.19"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="13.47px"
      lengthAdjust="spacingAndGlyphs"
-     id="text128">Oct</text>
+     id="text130">Oct</text>
   <text
      x="602.56"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="15.48px"
      lengthAdjust="spacingAndGlyphs"
-     id="text130">Nov</text>
+     id="text132">Nov</text>
   <text
      x="656.56"
      y="391.06"
      style="font-size: 8.80px; fill: #525252; font-family: Fira Sans;"
      textLength="14.66px"
      lengthAdjust="spacingAndGlyphs"
-     id="text132">Dec</text>
+     id="text134">Dec</text>
   <text
      transform="translate(22.52,305.92) rotate(-90)"
      style="font-size: 11.00px; fill: #525252; font-family: Fira Sans;"
      textLength="114.02px"
      lengthAdjust="spacingAndGlyphs"
-     id="text134">Number of Books Read</text>
+     id="text136">Number of Books Read</text>
   <text
      x="304.02"
      y="77.42"
      style="font-size: 10.00px; fill: #525252; font-family: Fira Sans;"
      textLength="123.13px"
      lengthAdjust="spacingAndGlyphs"
-     id="text136">Avg Number of Words Read</text>
+     id="text138">Avg Number of Words Read</text>
   <rect
      x="263.47"
      y="83.47"
      width="17.28"
      height="17.85"
      style="stroke-width: 1.07; stroke: none; fill: #F2F2F2;"
-     id="rect138" />
+     id="rect140" />
   <circle
      cx="272.11"
      cy="92.39"
      r="1.06"
      style="stroke-width: 2.13; stroke: #211A1D; fill: #F5F5F5;"
-     id="circle140" />
+     id="circle142" />
   <rect
      x="295.73"
      y="83.47"
      width="17.28"
      height="17.85"
      style="stroke-width: 1.07; stroke: none; fill: #F2F2F2;"
-     id="rect142" />
+     id="rect144" />
   <circle
      cx="304.37"
      cy="92.39"
      r="4.94"
      style="stroke-width: 2.13; stroke: #211A1D; fill: #F5F5F5;"
-     id="circle144" />
+     id="circle146" />
   <rect
      x="354.14"
      y="83.47"
      width="17.28"
      height="17.85"
      style="stroke-width: 1.07; stroke: none; fill: #F2F2F2;"
-     id="rect146" />
+     id="rect148" />
   <circle
      cx="362.78"
      cy="92.39"
      r="6.55"
      style="stroke-width: 2.13; stroke: #211A1D; fill: #F5F5F5;"
-     id="circle148" />
+     id="circle150" />
   <rect
      x="413.11"
      y="83.47"
      width="17.85"
      height="17.85"
      style="stroke-width: 1.07; stroke: none; fill: #F2F2F2;"
-     id="rect150" />
+     id="rect152" />
   <circle
      cx="422.03"
      cy="92.39"
      r="7.78"
      style="stroke-width: 2.13; stroke: #211A1D; fill: #F5F5F5;"
-     id="circle152" />
+     id="circle154" />
   <text
      x="285.73"
      y="95.49"
      style="font-size: 9.00px; fill: #525252; font-family: Fira Sans;"
      textLength="5.02px"
      lengthAdjust="spacingAndGlyphs"
-     id="text154">0</text>
+     id="text156">0</text>
   <text
      x="317.99"
      y="95.49"
      style="font-size: 9.00px; fill: #525252; font-family: Fira Sans;"
      textLength="31.17px"
      lengthAdjust="spacingAndGlyphs"
-     id="text156">100,000</text>
+     id="text158">100,000</text>
   <text
      x="376.40"
      y="95.49"
      style="font-size: 9.00px; fill: #525252; font-family: Fira Sans;"
      textLength="31.72px"
      lengthAdjust="spacingAndGlyphs"
-     id="text158">200,000</text>
+     id="text160">200,000</text>
   <text
      x="435.94"
      y="95.49"
      style="font-size: 9.00px; fill: #525252; font-family: Fira Sans;"
      textLength="31.76px"
      lengthAdjust="spacingAndGlyphs"
-     id="text160">300,000</text>
+     id="text162">300,000</text>
   <text
      x="14.94"
      y="56.17"
      style="font-size: 11.00px; fill: #525252; font-family: Fira Sans;"
      textLength="260.03px"
      lengthAdjust="spacingAndGlyphs"
-     id="text162">Read 19 books in 2021, for a total of 2,754,448 words.</text>
+     id="text164">Read 19 books in 2021, for a total of 2,754,448 words.</text>
   <text
      x="14.94"
      y="38.87"
      style="font-size: 20.00px; fill: #211A1D; font-family: IBM Plex Sans;"
      textLength="252.42px"
      lengthAdjust="spacingAndGlyphs"
-     id="text164">My Reading Timeline (2021)</text>
+     id="text166">My Reading Timeline (2021)</text>
   <text
      x="550.24"
      y="413.46"
      style="font-size: 8.00px; fill: #525252; font-family: Fira Sans;"
      textLength="47.95px"
      lengthAdjust="spacingAndGlyphs"
-     id="text166">Visualization:</text>
+     id="text168">Visualization:</text>
   <text
      x="600.31"
      y="413.46"
      style="font-size: 8.00px; font-weight: bold; fill: #525252; font-family: Fira Sans;"
      textLength="36.14px"
      lengthAdjust="spacingAndGlyphs"
-     id="text168">@luisfreii</text>
+     id="text170">@luisfreii</text>
   <text
      x="638.57"
      y="413.46"
      style="font-size: 8.00px; fill: #525252; font-family: Fira Sans;"
      textLength="3.22px"
      lengthAdjust="spacingAndGlyphs"
-     id="text170">|</text>
+     id="text172">|</text>
   <text
      x="643.92"
      y="413.46"
      style="font-size: 8.00px; fill: #525252; font-family: Fira Sans;"
      textLength="19.61px"
      lengthAdjust="spacingAndGlyphs"
-     id="text172">Made</text>
+     id="text174">Made</text>
   <text
      x="665.65"
      y="413.46"
      style="font-size: 8.00px; fill: #525252; font-family: Fira Sans;"
      textLength="9.29px"
      lengthAdjust="spacingAndGlyphs"
-     id="text174">up</text>
+     id="text176">up</text>
   <text
      x="677.05"
      y="413.46"
      style="font-size: 8.00px; fill: #525252; font-family: Fira Sans;"
      textLength="16.66px"
      lengthAdjust="spacingAndGlyphs"
-     id="text176">Data</text>
+     id="text178">Data</text>
 </svg>
