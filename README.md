@@ -47,8 +47,18 @@ These are my last 10 contributions.
  - 2021/Week 17: [Netflix Shows 📺](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W17_Netflix_Shows)
  - 2021/Week 18: [CEO Departures 👩‍💼](https://github.com/luisfrein/R_Tidytuesday/tree/master/2021/W18_CEO_Departures)
  
+ **Contributions 2022**
+ - 2022/Week 1: [Bring Your Own Data](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W01_Bring_your_own_dataa)
+ 
 <!-- tocstop -->
 </details>
+
+---     
+**Week 01 2022: Bring Your Own Data** 👩‍💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W01_Bring_your_own_data/W01_Bring_your_own_data.R)
+
+My Reading Timeline 2022
+
+![Line chart showcasing how many books I read per month in 2022. With a dot for each month showcasing the average words I read. Is interesting to note that after september I had a reader´s block that lasted until December. I read 19 books in 2022, a total of 2,754,448 words read.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W01_Bring_your_own_data/W01_2022.png)
 
 ---     
 **Week 18 2021: CEO Departures** 👩‍💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W18_CEO_Departures/W18_CEO_Departures.R)
@@ -78,54 +88,6 @@ Leading causes of loss of forest in Brazil.
 
 ![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W15_Deforestation/6.Experimental.png)
 
----     
-**Week 14 2021: Makeup Shades** 💄 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W14_Makeup%20Shades/Makeup%20Shades.R)
-
-How Brands Make their Shades?
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W14_Makeup%20Shades/shades.png)
-
----     
-**Week 13 2021: UN Votes** :united_nations: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W13_UN_Votes/W13_UN_Votes.R)
-
-Abstract art made with UN votes data. I named it "**Bola de Fuego**".
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W13_UN_Votes/UN_art.png)
-
----     
-**Week 12 2021: Video Games + Sliced** :video_game: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W12_Video_Games_and_Sliced/W12_Video_Games_and_Sliced.R)
-
-The average number of persons playing Crosscode on Steam.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W12_Video_Games_and_Sliced/crosscode.png)
-
----     
-**Week 11 2021: Bechdel Test** :female_detective: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W11_Bechdel_Test/W11_Bechdel_Test.R)
-
-Movies that passed or failed the Bechdel test by Genre.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W11_Bechdel_Test/Bechdel.png)
-
----     
-**Week 10 2021: Superbowl Ads** :football: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W10_Superbowl_commercias/W10_Superbowl_commercias.R)
-
-Supebowl Commercials with the Most Comments.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W10_Superbowl_commercias/Superbowl%20Commercials.png)
-
----     
-**Week 9 2021: Employed Status** :man::woman: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W09_Employed_Status/W09_Employed_Status.R)
-
-Gap between median weekly earnings of men and women in the US.
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W09_Employed_Status/median_earninng.png)
-
----     
-**Week 8 2021: #DUBOISCHALLENGE** :school: [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W08_Dubois_Challenge/W08_Dubois_Challenge.R)
-
-Remake of a plot for the #DuBoisChallenge
-
-![alt text](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W08_Dubois_Challenge/dubois.png)
 
 
 
