@@ -49,9 +49,16 @@ These are my last 10 contributions.
  
  **Contributions 2022**
  - 2022/Week 1: [Bring Your Own Data](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W01_Bring_your_own_dataa)
+ - 2022/Week 2: [Bee Colonies 🐝](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W02_Bee_Colonies)
+
  
 <!-- tocstop -->
 </details>
+
+**Week 02 2022: Bee Colonies** 🐝💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_Colonies.R)
+
+Bee Colonies Added in the US from 2015 to 2021
+![Bar plot that shows the number of bee colonies added in the US from 2015 to 2021. It is interesting to notice that in 2019 and in 2021 the number of colonies added dropped considerably when compared to the other years.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_colonies.png)
 
 ---     
 **Week 01 2022: Bring Your Own Data** 👩‍💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W01_Bring_your_own_data/W01_Bring_your_own_data.R)
@@ -65,7 +72,7 @@ My Reading Timeline 2022
 
 For What Reason Do CEOs Depart Firms?
 
-![Bar chart that shows the voluntary and involuntary reasons for CEO departures in the S&P 1500 firms. The reason of departures are ordered from most common to least common: Retirement 3598 departures, Dismissed for job perfomance 1320, Dismissed for legal violations or concerns 195, left for a new opportunity 183, illness 97 and death 84.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W18_CEO_Departures/W18.png)
+![Bar chart that shows the voluntary and involuntary reasons for CEO departures in the S&P 1500 firms. The reason of departures are ordered from most common to least common: Retirement 3598 departures, Dismissed for job performance 1320, Dismissed for legal violations or concerns 195, left for a new opportunity 183, illness 97 and death 84.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W18_CEO_Departures/W18.png)
 
 ---     
 **Week 17 2021: Netflix Shows** 📺 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W17_Netflix_Shows.R)
