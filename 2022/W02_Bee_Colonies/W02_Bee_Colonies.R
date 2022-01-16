@@ -51,7 +51,7 @@ colony %>%
         plot.caption.position = 'plot',
         plot.margin = margin(25, 15, 10, 15))
 
-#Code to save the plot
+#Code to save the plots
 # ggsave('W02_Bee_colonies.png',
 #        width = 18,
 #        heigh = 10,
