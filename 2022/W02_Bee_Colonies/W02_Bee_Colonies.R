@@ -51,12 +51,19 @@ colony %>%
         plot.caption.position = 'plot',
         plot.margin = margin(25, 15, 10, 15))
 
-ggsave('W02_Bee_colonies.png',
-       width = 18,
-       heigh = 10,
-       units = 'cm',
-       dpi = 300,
-       type = 'cairo')
+#Code to save the plot
+# ggsave('W02_Bee_colonies.png',
+#        width = 18,
+#        heigh = 10,
+#        units = 'cm',
+#        dpi = 300,
+#        type = 'cairo')
+
+# ggsave('W02_Bee_colonies.svg',
+#        width = 18,
+#        heigh = 10,
+#        units = 'cm',
+#        dpi = 300)
 
 
 
