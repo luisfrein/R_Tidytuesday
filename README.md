@@ -58,7 +58,7 @@ These are my last 10 contributions.
 **Week 02 2022: Bee Colonies** 🐝💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_Colonies.R)
 
 Bee Colonies Added in the US from 2015 to 2021
-![Bar plot that shows the number of bee colonies added in the US from 2015 to 2021. It is interesting to notice that in 2019 and in 2021 the number of colonies added dropped considerably when compared to the other years.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_colonies.png)
+![Bar plot that shows the number of bee colonies added in the US from 2015 to 2021. It is interesting to notice that in 2019 and in 2021 the number of colonies added dropped considerably when compared to the other years.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_colony.png)
 
 ---     
 **Week 01 2022: Bring Your Own Data** 👩‍💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W01_Bring_your_own_data/W01_Bring_your_own_data.R)
