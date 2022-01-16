@@ -28,7 +28,7 @@ colony %>%
   scale_y_continuous(labels = label_comma()) +
   scale_x_continuous(breaks = breaks_pretty(n = 7)) +
   scale_fill_manual(values = c('#deb841', '#6d6a75')) +
-  labs(title = 'Number of Honey Bees colonies added in the US from 2015 to 2021',
+  labs(title = 'Number of Bee Colonies Added in the US from 2015 to 2021',
        subtitle = 'The number of colonies added remained stable until 2019. That year saw\na significant collapse of colonies, a similar pattern repeated in 2021.',
        y = 'Colonies Added',
        x = NULL,
