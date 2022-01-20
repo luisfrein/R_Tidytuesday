@@ -52,7 +52,7 @@ matched_chocolates %>%
        x = 'Number of Chocolate Bars',
        caption = 'Visualization: **@luisfreii** | Source: **Flavors of Cacao**',
        title = 'Chocolate Bars Made in House',
-       subtitle = "The number of chocolate bars <span style='color:#b07d62;'>**made in-house**</span> vs the total amount<br>of chocolate bars <span style='color:#774936;'>**made**</span> with the country's cocoa beans.<br>") +
+       subtitle = "The number of chocolate bars <span style='color:#b07d62;'>**made in-house**</span> vs the <span style='color:#774936;'>**total amount**</span><br>of chocolate bars made with the country's cocoa beans. Companies<br>around the globe use Venezuela's cocoa beans to make more than<br>200 chocolate bars, but only 31 of those were made in-house.<br>") +
   theme(axis.ticks = element_blank(),
         panel.background = element_rect('#F5F5F5'),
         plot.background = element_rect('#F5F5F5'),
@@ -77,11 +77,11 @@ matched_chocolates %>%
         plot.margin = margin(25, 15, 10, 15))
 
 #Save the plot
-# ggsave("W03_Chocolate_Ratings.png",
-#        width = 15,
-#        height = 20,
-#        units = "cm",
-#        dpi = 320)
+ggsave("W03_Chocolate_Ratings.png",
+       width = 15,
+       height = 20,
+       units = "cm",
+       dpi = 320)
 
 # ggsave("W03_Chocolate_Ratings.svg",
 #        width = 15,
