@@ -50,12 +50,19 @@ These are my last 10 contributions.
  **Contributions 2022**
  - 2022/Week 1: [Bring Your Own Data](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W01_Bring_your_own_dataa)
  - 2022/Week 2: [Bee Colonies 🐝](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W02_Bee_Colonies)
-
+ - 2022/Week 3: [Chocolate Ratings 🍫](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W03_Chocolate_Ratings)
  
 <!-- tocstop -->
 </details>
 
-**Week 02 2022: Bee Colonies** 🐝💼 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_Colonies.R)
+**Week 03 2022: Chocolate Ratings** 🍫 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W03_Chocolate_Ratings/W03_Chocolate_Ratings.R)
+
+Bee Colonies Added in the US from 2015 to 2021
+
+![Dumbbell plot that shows countries on the y axis and number of chocolate bars on the x axis. There are 2 dots for each country, one that shows the number of chocolates made in house with the country's own cocoa beans and one that shows the total amount of chocolate bars made with the country's cocoa beans. For countries like Venezuela their cocoa beans are used to make more than 200 chocolate bars, but only 31 of those are made in house.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W03_Chocolate_Ratings/W03_Chocolate_Ratings.png)
+
+---     
+**Week 02 2022: Bee Colonies** 🐝 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W02_Bee_Colonies/W02_Bee_Colonies.R)
 
 Bee Colonies Added in the US from 2015 to 2021
 
@@ -81,7 +88,7 @@ For What Reason Do CEOs Depart Firms?
 Anime Titles are Getting Popular.
 
 ![Area chart that shows the number of anime titles (in black) and anime movies (in red) that has been added to Netflix from 2016 to 2020. The overall number of titles has increased throught the years. From around 20 titles in 2016 to more than 60 titles in 2020.](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W17_Netflix_Shows/W16.Netflix%20Titles.gif)
-
+ 
 ---     
 **Week 16 2021: US Post Offices** 📫 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2021/W16_US_Post_Offices/W16_US_Post_Offices.R)
 
