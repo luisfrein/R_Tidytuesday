@@ -77,11 +77,11 @@ matched_chocolates %>%
         plot.margin = margin(25, 15, 10, 15))
 
 #Save the plot
-ggsave("W03_Chocolate_Ratings.png",
-       width = 15,
-       height = 20,
-       units = "cm",
-       dpi = 320)
+# ggsave("W03_Chocolate_Ratings.png",
+#        width = 15,
+#        height = 20,
+#        units = "cm",
+#        dpi = 320)
 
 # ggsave("W03_Chocolate_Ratings.svg",
 #        width = 15,
