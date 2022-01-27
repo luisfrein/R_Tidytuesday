@@ -13,10 +13,49 @@ details <- tuesdata$details
 left_join(ratings, details, by = c('name' = 'primary')) -> games
 
 games %>% 
-  select(3, 4, 6, 10, 17, 21) %>% 
+  select(3,10, 21, 4, 17, 6) %>% 
   mutate(boardgamecategory = str_remove_all(boardgamecategory, '[[:punct:]]')) %>% 
   arrange(-playingtime) %>% 
   slice_head(n = 10) %>% 
-  gt() -> table
+  gt() %>% 
+  cols_label(name = "Game",
+             thumbnail = "Thumbnail",
+             boardgamecategory = "Category",
+             year = "Release Year",
+             playingtime = "Playtime",
+             average = "Average Rating") %>% 
+  tab_style(
+    style = list(
+      cell_borders(
+        sides = "left",
+        color = "black",
+        weight = px(3)
+    )
+  ), 
+  locations = list(
+    cells_body(
+      columns = vars(playingtime)
+    )
+  ) 
+  ) %>% 
+  tab_style(
+    style = list(
+      cell_borders(
+        sides = "bottom",
+        color = "black",
+        weight = px(3)
+      )
+    ),
+    locations = list(
+      cells_column_labels(
+        columns = gt::everything()
+      )
+    )
+  )
 
-gtsave(table, 'table.png')
+tablgtsave(table, 'table.png')
+
+#Color playtime and rating
+paletteer::paletteer_d("ggsci::red_material", n = 6) %>%
+  as.character() %>%
+  scales::show_col()
