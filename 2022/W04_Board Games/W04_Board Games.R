@@ -13,16 +13,20 @@ details <- tuesdata$details
 left_join(ratings, details, by = c('name' = 'primary')) -> games
 
 games %>% 
-  select(3,10, 21, 4, 17, 6) %>% 
-  mutate(boardgamecategory = str_remove_all(boardgamecategory, '[[:punct:]]')) %>% 
+  select(3, 4, 21, 10, 17, 6) %>% 
+  #Remove punctuation from category column except for ',' and convert playingtime from minutes to days
+  mutate(boardgamecategory = str_remove_all(boardgamecategory, "(?!,)[[:punct:]]"),
+         playingtime = round(playingtime / 1440, digits = 2)) %>% 
   arrange(-playingtime) %>% 
-  slice_head(n = 10) %>% 
+  slice_head(n = 15) %>% 
   gt() %>% 
+  gtExtras::gt_theme_538() %>% 
+  gtExtras::gt_img_rows(thumbnail, height = 60) %>% 
   cols_label(name = "Game",
-             thumbnail = "Thumbnail",
+             thumbnail = "",
              boardgamecategory = "Category",
              year = "Release Year",
-             playingtime = "Playtime",
+             playingtime = "Playtime (In Days)",
              average = "Average Rating") %>% 
   tab_style(
     style = list(
@@ -34,7 +38,7 @@ games %>%
   ), 
   locations = list(
     cells_body(
-      columns = vars(playingtime)
+      columns = c(playingtime)
     )
   ) 
   ) %>% 
@@ -51,11 +55,26 @@ games %>%
         columns = gt::everything()
       )
     )
-  )
+  ) %>% 
+  tab_header(title = md('**Can You and Your Friends Complete These Board Games?**'),
+             subtitle = '14 out of the 15 board games that take the longest to complete have war in their categories.') %>% 
+  tab_source_note(source_note = md('Source: **Kaggle by way of Board Games Geek**, Table: **@luisfreii**')) %>% 
+  data_color(
+    columns = c(average),
+    colors = scales::col_numeric(
+      palette = as.character(paletteer::paletteer_d('nord::lumina', n = 5)),
+      domain = NULL
+    )
+  ) %>% 
+  data_color(
+    columns = c(playingtime),
+    colors = scales::col_numeric(
+      palette = as.character(paletteer::paletteer_d('nord::lumina')),
+      domain = NULL
+    )
+  ) -> longest_games
 
-tablgtsave(table, 'table.png')
+#Code to save the table
+gtsave(longest_games, 'W04_Board Games.png')
 
-#Color playtime and rating
-paletteer::paletteer_d("ggsci::red_material", n = 6) %>%
-  as.character() %>%
-  scales::show_col()
+
