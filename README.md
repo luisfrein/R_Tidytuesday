@@ -51,10 +51,18 @@ These are my last 10 contributions.
  - 2022/Week 1: [Bring Your Own Data](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W01_Bring_your_own_dataa)
  - 2022/Week 2: [Bee Colonies 🐝](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W02_Bee_Colonies)
  - 2022/Week 3: [Chocolate Ratings 🍫](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W03_Chocolate_Ratings)
+ - 2022/Week 4: [Board Games 🎲](https://github.com/luisfrein/R_Tidytuesday/tree/master/2022/W04_Board%20Games)
  
 <!-- tocstop -->
 </details>
 
+**Week 04 2022: Board Games** 🎲 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W04_Board%20Games/W04_Board%20Games.R)
+
+Can You and Your Friends Complete These Board Games?
+
+![Table that shows the 15 board games that take the longest to complete. The number 1 named 'The campaign for North Africa: The desert war 1940-43' takes 41.67 days to complete, the number 15 named 'The greatest day : sword, juno and gold beaches' takes 4.17 days. Something interesting is that 14 out of the 15 games have War in their categories, the only one that isn't about war is 'The Enigma Box'](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W04_Board%20Games/W04_Board%20Games.png)
+
+---     
 **Week 03 2022: Chocolate Ratings** 🍫 [(code)](https://github.com/luisfrein/R_Tidytuesday/blob/master/2022/W03_Chocolate_Ratings/W03_Chocolate_Ratings.R)
 
 Bee Colonies Added in the US from 2015 to 2021
