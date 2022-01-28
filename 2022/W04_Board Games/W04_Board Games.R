@@ -75,6 +75,6 @@ games %>%
   ) -> longest_games
 
 #Code to save the table
-gtsave(longest_games, 'W04_Board Games.png')
+#gtsave(longest_games, 'W04_Board Games.png')
 
 
